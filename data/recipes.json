@@ -1,0 +1,1865 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Creamy Paneer Butter Masala",
+      "description": "Rich, creamy, and packed with aromatic spices\u2014a vegetarian classic!",
+      "category": "vegetarian",
+      "cookTime": 30,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Paneer (cubed)",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "item": "Butter",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Tomato puree",
+          "quantity": 1.5,
+          "unit": "cups"
+        },
+        {
+          "item": "Heavy cream",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Onion (finely chopped)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Kashmiri red chili powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Kasuri methi (dried fenugreek)",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Sugar",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Heat butter in a pan over medium heat.",
+        "Add chopped onions and saut\u00e9 until golden brown.",
+        "Add ginger-garlic paste and cook for 1-2 minutes until fragrant.",
+        "Add tomato puree, red chili powder, salt, and sugar. Cook for 8-10 minutes until oil separates.",
+        "Add garam masala and kasuri methi. Mix well.",
+        "Add heavy cream and stir to combine.",
+        "Add paneer cubes and simmer for 5 minutes.",
+        "Garnish with cream and serve hot with naan or rice."
+      ],
+      "tags": [
+        "Indian",
+        "Vegetarian",
+        "Creamy",
+        "Spicy",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Tandoori Chicken",
+      "description": "Juicy, flavorful chicken marinated in yogurt and spices, grilled to perfection.",
+      "category": "chicken",
+      "cookTime": 40,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Chicken legs or thighs",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "item": "Greek yogurt",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Lemon juice",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Tandoori masala",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Kashmiri red chili powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Turmeric powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Make deep cuts in the chicken pieces to allow marinade to penetrate.",
+        "In a large bowl, mix yogurt, lemon juice, ginger-garlic paste, tandoori masala, red chili powder, turmeric, garam masala, salt, and oil.",
+        "Add chicken to the marinade and coat well. Cover and refrigerate for at least 2 hours (or overnight for best results).",
+        "Preheat grill or oven to 200\u00b0C (400\u00b0F).",
+        "If using oven, place chicken on a baking tray lined with foil. Brush with oil.",
+        "Grill or bake for 35-40 minutes, turning halfway, until chicken is charred and cooked through.",
+        "Garnish with lemon wedges and sliced onions. Serve hot with mint chutney."
+      ],
+      "tags": [
+        "Indian",
+        "Chicken",
+        "Grilled",
+        "Spicy",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T10:30:00Z",
+      "updatedAt": "2025-01-01T10:30:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Dal Tadka",
+      "description": "Comforting lentils tempered with aromatic spices\u2014perfect with rice!",
+      "category": "vegetarian",
+      "cookTime": 35,
+      "servings": 4,
+      "imageUrl": "https://sinfullyspicy.com/wp-content/uploads/2014/08/1200-by-1200-images.jpg",
+      "ingredients": [
+        {
+          "item": "Water",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Turmeric powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Ghee or oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garlic cloves (minced)",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Dried red chilies",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Onion (sliced)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Tomato (chopped)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Green chili (slit)",
+          "quantity": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Coriander leaves (chopped)",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Rinse lentils thoroughly and soak for 15 minutes.",
+        "In a pressure cooker, add lentils, water, turmeric, and salt. Cook for 3-4 whistles until soft and mushy.",
+        "Mash the dal lightly with a spoon. Set aside.",
+        "Heat ghee in a pan. Add cumin seeds and let them crackle.",
+        "Add minced garlic and dried red chilies. Saut\u00e9 for 30 seconds.",
+        "Add sliced onions and cook until golden brown.",
+        "Add chopped tomatoes and green chili. Cook until tomatoes soften.",
+        "Add garam masala and mix well.",
+        "Pour this tempering (tadka) over the cooked dal. Mix gently.",
+        "Garnish with fresh coriander leaves. Serve hot with rice or roti."
+      ],
+      "tags": [
+        "Indian",
+        "Vegetarian",
+        "Lentils",
+        "Comfort Food",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T11:00:00Z",
+      "updatedAt": "2025-12-30T19:43:44.686Z"
+    },
+    {
+      "id": "4",
+      "title": "Spicy Chicken Tacos",
+      "description": "A fusion favorite with Indian spice twist on a Mexican classic.",
+      "category": "chicken",
+      "cookTime": 25,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Chicken breast (diced)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "item": "Taco shells or tortillas",
+          "quantity": 8,
+          "unit": "whole"
+        },
+        {
+          "item": "Yogurt",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Red chili powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Cumin powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Coriander powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Lettuce (shredded)",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Tomato (diced)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Onion (sliced)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Sour cream or yogurt",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Cilantro (chopped)",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Lime wedges",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "In a bowl, marinate chicken with yogurt, ginger-garlic paste, red chili powder, cumin, coriander, garam masala, and salt for 30 minutes.",
+        "Heat oil in a pan over medium-high heat.",
+        "Add marinated chicken and cook for 12-15 minutes until fully cooked and slightly charred.",
+        "Warm taco shells or tortillas in a dry pan or oven.",
+        "Assemble tacos: place chicken in shells, top with shredded lettuce, diced tomatoes, and sliced onions.",
+        "Drizzle with sour cream or yogurt.",
+        "Garnish with fresh cilantro and serve with lime wedges."
+      ],
+      "tags": [
+        "Fusion",
+        "Chicken",
+        "Mexican",
+        "Spicy",
+        "Quick Meals"
+      ],
+      "createdAt": "2025-01-01T11:30:00Z",
+      "updatedAt": "2025-01-01T11:30:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Butter Chicken",
+      "description": "Creamy, mildly spiced tomato-based curry with tender chicken pieces.",
+      "category": "chicken",
+      "cookTime": 45,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Chicken breast or thighs (cubed)",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "item": "Butter",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Heavy cream",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Tomato puree",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Yogurt",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Kashmiri red chili powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Kasuri methi",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Honey",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, half the ginger-garlic paste, and salt for 30 minutes.",
+        "Heat 2 tbsp butter in a pan and cook chicken until golden. Set aside.",
+        "In the same pan, add remaining butter and ginger-garlic paste. Saut\u00e9 for 1 minute.",
+        "Add tomato puree and cook for 10-12 minutes until oil separates.",
+        "Add red chili powder, garam masala, and salt. Mix well.",
+        "Add the cooked chicken and simmer for 5 minutes.",
+        "Stir in heavy cream, kasuri methi, and honey.",
+        "Simmer for 5 more minutes until the gravy thickens.",
+        "Garnish with cream and serve hot with naan or basmati rice."
+      ],
+      "tags": [
+        "Indian",
+        "Chicken",
+        "Creamy",
+        "Popular",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T12:00:00Z",
+      "updatedAt": "2025-01-01T12:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Palak Paneer",
+      "description": "Fresh spinach curry with soft paneer cubes\u2014healthy and delicious!",
+      "category": "vegetarian",
+      "cookTime": 30,
+      "servings": 4,
+      "imageUrl": "https://beextravegant.com/wp-content/uploads/2021/08/Palak-paneer-7-edited.jpg",
+      "ingredients": [
+        {
+          "item": "Fresh spinach (washed)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "item": "Paneer (cubed)",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "item": "Onion (chopped)",
+          "quantity": 1,
+          "unit": "large"
+        },
+        {
+          "item": "Tomato (chopped)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Green chilies",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Heavy cream",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Oil or ghee",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Blanch spinach in boiling water for 2-3 minutes. Drain and blend with green chilies into a smooth puree.",
+        "Heat oil in a pan. Lightly fry paneer cubes until golden. Set aside.",
+        "In the same pan, add cumin seeds and let them crackle.",
+        "Add chopped onions and saut\u00e9 until golden brown.",
+        "Add ginger-garlic paste and cook for 1 minute.",
+        "Add chopped tomatoes and cook until soft.",
+        "Add the spinach puree and bring to a boil.",
+        "Add garam masala and salt. Mix well.",
+        "Add paneer cubes and heavy cream. Simmer for 5 minutes.",
+        "Serve hot with roti or rice."
+      ],
+      "tags": [
+        "Indian",
+        "Vegetarian",
+        "Healthy",
+        "Spinach",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T12:30:00Z",
+      "updatedAt": "2025-01-01T12:30:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Vegetable Biryani",
+      "description": "Aromatic basmati rice layered with spiced vegetables\u2014a complete meal!",
+      "category": "vegetarian",
+      "cookTime": 50,
+      "servings": 6,
+      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Basmati rice",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Mixed vegetables (carrots, beans, peas, potatoes)",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Yogurt",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Onions (sliced)",
+          "quantity": 2,
+          "unit": "large"
+        },
+        {
+          "item": "Tomatoes (chopped)",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Biryani masala",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Mint leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Coriander leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Whole spices (bay leaf, cinnamon, cardamom)",
+          "quantity": 1,
+          "unit": "set"
+        },
+        {
+          "item": "Ghee",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Saffron strands",
+          "quantity": 1,
+          "unit": "pinch"
+        },
+        {
+          "item": "Milk",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Soak basmati rice for 30 minutes. Boil with whole spices until 70% cooked. Drain and set aside.",
+        "Soak saffron in warm milk.",
+        "Heat ghee in a heavy-bottomed pot. Fry sliced onions until golden brown. Remove half for garnish.",
+        "Add ginger-garlic paste and saut\u00e9 for 1 minute.",
+        "Add chopped tomatoes and cook until soft.",
+        "Add mixed vegetables, biryani masala, yogurt, and salt. Cook for 10 minutes.",
+        "Layer the cooked vegetables at the bottom of the pot.",
+        "Layer the partially cooked rice on top. Sprinkle with mint, coriander, fried onions, and saffron milk.",
+        "Cover tightly and cook on low heat for 20 minutes (dum cooking).",
+        "Gently mix and serve hot with raita and papad."
+      ],
+      "tags": [
+        "Indian",
+        "Vegetarian",
+        "Rice",
+        "Biryani",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T13:00:00Z",
+      "updatedAt": "2025-01-01T13:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Chicken Fried Rice",
+      "description": "Quick and easy Indo-Chinese style fried rice with chicken.",
+      "category": "quick",
+      "cookTime": 20,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Cooked rice (day-old preferred)",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "item": "Chicken breast (diced)",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "item": "Mixed vegetables (carrots, beans, bell peppers)",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Spring onions (chopped)",
+          "quantity": 4,
+          "unit": "stalks"
+        },
+        {
+          "item": "Garlic (minced)",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "item": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Vinegar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Black pepper powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat 1 tbsp oil in a wok or large pan over high heat.",
+        "Scramble the eggs and set aside.",
+        "Add remaining oil and stir-fry chicken until cooked through. Set aside.",
+        "In the same pan, add minced garlic and white part of spring onions. Saut\u00e9 for 30 seconds.",
+        "Add mixed vegetables and stir-fry for 2-3 minutes.",
+        "Add cooked rice and break any clumps. Stir-fry for 3-4 minutes.",
+        "Add soy sauce, vinegar, black pepper, and salt. Mix well.",
+        "Add cooked chicken and scrambled eggs. Toss everything together.",
+        "Garnish with green part of spring onions and serve hot."
+      ],
+      "tags": [
+        "Indo-Chinese",
+        "Chicken",
+        "Rice",
+        "Quick Meals",
+        "Fried Rice"
+      ],
+      "createdAt": "2025-01-01T13:30:00Z",
+      "updatedAt": "2025-01-01T13:30:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Chana Masala",
+      "description": "Spicy chickpea curry packed with flavor\u2014perfect protein-rich vegetarian meal.",
+      "category": "spicy",
+      "cookTime": 35,
+      "servings": 4,
+      "imageUrl": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2020/01/easy-chana-masala-pan-800x1200.jpg",
+      "ingredients": [
+        {
+          "item": "Chickpeas (boiled or canned)",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Onions (finely chopped)",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Tomatoes (pureed)",
+          "quantity": 2,
+          "unit": "large"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Green chilies (chopped)",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Coriander powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "item": "Red chili powder",
+          "quantity": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Amchur (dry mango powder)",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Fresh coriander leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan. Add cumin seeds and let them crackle.",
+        "Add chopped onions and saut\u00e9 until golden brown.",
+        "Add ginger-garlic paste and green chilies. Cook for 1-2 minutes.",
+        "Add tomato puree and cook for 8-10 minutes until oil separates.",
+        "Add coriander powder, red chili powder, and salt. Mix well.",
+        "Add boiled chickpeas with 1 cup of water. Mix and bring to a boil.",
+        "Simmer for 10-12 minutes, mashing some chickpeas to thicken the gravy.",
+        "Add garam masala and amchur powder. Mix well.",
+        "Garnish with fresh coriander leaves.",
+        "Serve hot with bhature, kulcha, or rice."
+      ],
+      "tags": [
+        "Indian",
+        "Vegetarian",
+        "Spicy",
+        "Chickpeas",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T14:00:00Z",
+      "updatedAt": "2025-01-01T14:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Chicken Biryani",
+      "description": "Fragrant and flavorful rice dish layered with marinated chicken\u2014the ultimate comfort food!",
+      "category": "chicken",
+      "cookTime": 60,
+      "servings": 6,
+      "imageUrl": "https://ministryofcurry.com/wp-content/uploads/2024/06/chicken-biryani-5.jpg",
+      "ingredients": [
+        {
+          "item": "Basmati rice",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Chicken (cut into pieces)",
+          "quantity": 750,
+          "unit": "g"
+        },
+        {
+          "item": "Yogurt",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Onions (sliced)",
+          "quantity": 3,
+          "unit": "large"
+        },
+        {
+          "item": "Tomatoes (chopped)",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Biryani masala",
+          "quantity": 2.5,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Red chili powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Mint leaves",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Coriander leaves",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Whole spices (bay leaf, cinnamon, cardamom, cloves)",
+          "quantity": 1,
+          "unit": "set"
+        },
+        {
+          "item": "Ghee",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Saffron strands",
+          "quantity": 1,
+          "unit": "pinch"
+        },
+        {
+          "item": "Milk",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Lemon juice",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, red chili powder, lemon juice, and salt for 1 hour.",
+        "Soak rice for 30 minutes. Boil with whole spices until 70% cooked. Drain.",
+        "Soak saffron in warm milk.",
+        "Heat ghee in a heavy-bottomed pot. Fry sliced onions until golden brown. Remove half for garnish.",
+        "Add marinated chicken and cook for 15 minutes until chicken is cooked.",
+        "Add chopped tomatoes and cook for 5 more minutes.",
+        "Layer the chicken at the bottom of the pot.",
+        "Layer the partially cooked rice on top. Sprinkle with mint, coriander, fried onions, and saffron milk.",
+        "Cover tightly with foil and lid. Cook on high heat for 3 minutes, then low heat for 25 minutes (dum).",
+        "Let it rest for 5 minutes before opening. Gently mix and serve hot with raita."
+      ],
+      "tags": [
+        "Indian",
+        "Chicken",
+        "Biryani",
+        "Rice",
+        "Main Course"
+      ],
+      "createdAt": "2025-01-01T14:30:00Z",
+      "updatedAt": "2025-01-01T14:30:00Z"
+    },
+    {
+      "id": "11",
+      "title": "Pachi Mirchi Paneer Pulao",
+      "description": "Aromatic rice cooked with green chilies and paneer\u2014a spicy South Indian delight!",
+      "category": "spicy",
+      "cookTime": 40,
+      "servings": 4,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98eA3bFL9kk9lQxWa-HeDfjG3_1pem_aS1g&s",
+      "ingredients": [
+        {
+          "item": "Basmati rice",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Paneer (cubed)",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "item": "Green chilies (slit lengthwise)",
+          "quantity": 8,
+          "unit": "whole"
+        },
+        {
+          "item": "Onions (sliced)",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Tomatoes (chopped)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Green peas",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Whole spices (bay leaf, cinnamon, cardamom, cloves)",
+          "quantity": 1,
+          "unit": "set"
+        },
+        {
+          "item": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Turmeric powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Red chili powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Mint leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Coriander leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Ghee or oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Water",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Wash and soak basmati rice for 30 minutes. Drain and set aside.",
+        "Heat ghee in a heavy-bottomed pan. Lightly fry paneer cubes until golden. Remove and set aside.",
+        "In the same pan, add cumin seeds and whole spices. Let them crackle.",
+        "Add sliced onions and saut\u00e9 until golden brown.",
+        "Add ginger-garlic paste and slit green chilies. Saut\u00e9 for 1-2 minutes.",
+        "Add chopped tomatoes and cook until they turn soft and mushy.",
+        "Add turmeric powder, red chili powder, and salt. Mix well.",
+        "Add green peas and cook for 2 minutes.",
+        "Add the soaked rice and gently mix. Saut\u00e9 for 2-3 minutes.",
+        "Add water and bring to a boil. Add half the mint and coriander leaves.",
+        "Cover with a tight-fitting lid and cook on low heat for 15-20 minutes until rice is fully cooked.",
+        "Add the fried paneer cubes and garam masala. Gently mix.",
+        "Garnish with remaining mint and coriander leaves.",
+        "Serve hot with raita or pickle."
+      ],
+      "tags": [
+        "South Indian",
+        "Vegetarian",
+        "Spicy",
+        "Rice",
+        "Paneer"
+      ],
+      "createdAt": "2025-01-01T15:00:00Z",
+      "updatedAt": "2025-12-31T20:29:54.931Z"
+    },
+    {
+      "id": "12",
+      "title": "Classic Margherita Pizza",
+      "description": "Authentic Italian pizza with fresh mozzarella, tomatoes, and basil.",
+      "category": "vegetarian",
+      "cookTime": 25,
+      "servings": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Pizza dough",
+          "quantity": 1,
+          "unit": "ball"
+        },
+        {
+          "item": "Tomato sauce",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Fresh mozzarella cheese (sliced)",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "item": "Fresh basil leaves",
+          "quantity": 10,
+          "unit": "leaves"
+        },
+        {
+          "item": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Garlic (minced)",
+          "quantity": 2,
+          "unit": "cloves"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Black pepper",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 475\u00b0F (245\u00b0C). If using a pizza stone, place it in the oven.",
+        "Roll out pizza dough on a floured surface to desired thickness.",
+        "Mix tomato sauce with minced garlic, salt, and pepper.",
+        "Spread tomato sauce evenly over the dough, leaving a 1-inch border.",
+        "Arrange sliced mozzarella cheese on top of the sauce.",
+        "Drizzle with olive oil.",
+        "Transfer to oven and bake for 12-15 minutes until crust is golden and cheese is bubbly.",
+        "Remove from oven and immediately top with fresh basil leaves.",
+        "Slice and serve hot."
+      ],
+      "tags": [
+        "Italian",
+        "Vegetarian",
+        "Pizza",
+        "Quick",
+        "Classic"
+      ],
+      "createdAt": "2025-01-02T10:00:00Z",
+      "updatedAt": "2025-01-02T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "Pad Thai",
+      "description": "Popular Thai stir-fried noodles with tamarind sauce and peanuts.",
+      "category": "quick",
+      "cookTime": 30,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Rice noodles",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "item": "Chicken or tofu (cubed)",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Bean sprouts",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Green onions (chopped)",
+          "quantity": 4,
+          "unit": "stalks"
+        },
+        {
+          "item": "Peanuts (crushed)",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Tamarind paste",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Fish sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Brown sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Lime wedges",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Garlic (minced)",
+          "quantity": 3,
+          "unit": "cloves"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Soak rice noodles in warm water for 30 minutes. Drain.",
+        "Mix tamarind paste, fish sauce, and brown sugar in a bowl. Set aside.",
+        "Heat oil in a wok over high heat.",
+        "Add minced garlic and stir-fry for 30 seconds.",
+        "Add chicken or tofu and cook until done.",
+        "Push ingredients to the side, crack eggs into the wok and scramble.",
+        "Add soaked noodles and tamarind sauce mixture. Toss well.",
+        "Add bean sprouts and half the green onions. Stir-fry for 2-3 minutes.",
+        "Transfer to serving plates.",
+        "Garnish with crushed peanuts, remaining green onions, and lime wedges.",
+        "Serve immediately."
+      ],
+      "tags": [
+        "Thai",
+        "Asian",
+        "Noodles",
+        "Street Food",
+        "Popular"
+      ],
+      "createdAt": "2025-01-02T10:30:00Z",
+      "updatedAt": "2025-01-02T10:30:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Greek Salad",
+      "description": "Fresh Mediterranean salad with feta cheese, olives, and crisp vegetables.",
+      "category": "vegetarian",
+      "cookTime": 15,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Cucumbers (chopped)",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Tomatoes (chopped)",
+          "quantity": 4,
+          "unit": "large"
+        },
+        {
+          "item": "Red onion (thinly sliced)",
+          "quantity": 1,
+          "unit": "small"
+        },
+        {
+          "item": "Bell pepper (chopped)",
+          "quantity": 1,
+          "unit": "large"
+        },
+        {
+          "item": "Kalamata olives",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Feta cheese (cubed)",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "item": "Extra virgin olive oil",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Lemon juice",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Dried oregano",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Black pepper",
+          "quantity": 1,
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "In a large bowl, combine chopped cucumbers, tomatoes, bell pepper, and red onion.",
+        "Add Kalamata olives.",
+        "In a small bowl, whisk together olive oil, lemon juice, oregano, salt, and pepper.",
+        "Pour dressing over the vegetables and toss gently.",
+        "Top with cubed feta cheese.",
+        "Let sit for 10 minutes to allow flavors to meld.",
+        "Toss gently before serving.",
+        "Serve chilled or at room temperature."
+      ],
+      "tags": [
+        "Greek",
+        "Mediterranean",
+        "Salad",
+        "Healthy",
+        "No Cook"
+      ],
+      "createdAt": "2025-01-02T11:30:00Z",
+      "updatedAt": "2025-01-02T11:30:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Spaghetti Carbonara",
+      "description": "Creamy Italian pasta with bacon, eggs, and Parmesan cheese.",
+      "category": "quick",
+      "cookTime": 25,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Spaghetti",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "item": "Bacon or pancetta (diced)",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 3,
+          "unit": "whole"
+        },
+        {
+          "item": "Parmesan cheese (grated)",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Garlic (minced)",
+          "quantity": 3,
+          "unit": "cloves"
+        },
+        {
+          "item": "Black pepper (freshly ground)",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Fresh parsley (chopped)",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to boil. Cook spaghetti according to package directions.",
+        "While pasta cooks, fry bacon in a large pan until crispy. Add garlic and cook for 1 minute.",
+        "In a bowl, whisk together eggs, Parmesan cheese, and black pepper.",
+        "Reserve 1 cup of pasta water, then drain pasta.",
+        "Remove pan from heat and add hot pasta to the bacon.",
+        "Quickly add egg mixture and toss vigorously, adding pasta water as needed to create a creamy sauce.",
+        "The heat from the pasta will cook the eggs without scrambling them.",
+        "Season with salt and more pepper if needed.",
+        "Garnish with fresh parsley and extra Parmesan.",
+        "Serve immediately."
+      ],
+      "tags": [
+        "Italian",
+        "Pasta",
+        "Creamy",
+        "Quick",
+        "Classic"
+      ],
+      "createdAt": "2025-01-02T12:30:00Z",
+      "updatedAt": "2025-01-02T12:30:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Kung Pao Chicken",
+      "description": "Spicy Sichuan-style stir-fry with chicken, peanuts, and vegetables.",
+      "category": "spicy",
+      "cookTime": 25,
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&h=400&fit=crop",
+      "ingredients": [
+        {
+          "item": "Chicken breast (cubed)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "item": "Peanuts (roasted)",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Bell peppers (cubed)",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Dried red chilies",
+          "quantity": 8,
+          "unit": "whole"
+        },
+        {
+          "item": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Rice vinegar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Cornstarch",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "item": "Ginger (minced)",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Garlic (minced)",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "item": "Green onions (chopped)",
+          "quantity": 3,
+          "unit": "stalks"
+        },
+        {
+          "item": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Mix soy sauce, rice vinegar, sugar, cornstarch, and 2 tbsp water in a bowl. Set aside.",
+        "Heat oil in a wok over high heat.",
+        "Add dried red chilies and stir-fry for 30 seconds until fragrant.",
+        "Add chicken and stir-fry until cooked through, about 5-7 minutes.",
+        "Add ginger and garlic, stir-fry for 1 minute.",
+        "Add bell peppers and stir-fry for 2-3 minutes.",
+        "Pour in the sauce mixture and stir until it thickens.",
+        "Add roasted peanuts and green onions. Toss well.",
+        "Drizzle with sesame oil.",
+        "Serve hot over steamed rice."
+      ],
+      "tags": [
+        "Chinese",
+        "Sichuan",
+        "Spicy",
+        "Stir-Fry",
+        "Chicken"
+      ],
+      "createdAt": "2025-01-02T13:00:00Z",
+      "updatedAt": "2025-01-02T13:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "Falafel",
+      "description": "Crispy Middle Eastern chickpea fritters served with tahini sauce.",
+      "category": "vegetarian",
+      "cookTime": 40,
+      "servings": 4,
+      "imageUrl": "https://www.themediterraneandish.com/wp-content/uploads/2020/02/falafel-recipe-1.jpg",
+      "ingredients": [
+        {
+          "item": "Dried chickpeas (soaked)",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Onion (chopped)",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Garlic cloves",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Fresh parsley",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Fresh cilantro",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Cumin powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "item": "Coriander powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Baking powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Oil for frying",
+          "quantity": 3,
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        "Drain soaked chickpeas and add to food processor with onion, garlic, parsley, and cilantro.",
+        "Pulse until coarse mixture forms (not pureed).",
+        "Add cumin, coriander, salt, and baking powder. Mix well.",
+        "Refrigerate mixture for 1 hour.",
+        "Form into small balls or patties.",
+        "Heat oil to 350\u00b0F (175\u00b0C).",
+        "Deep fry falafel until golden brown, about 3-4 minutes.",
+        "Drain on paper towels and serve with tahini sauce."
+      ],
+      "tags": [
+        "Middle Eastern",
+        "Vegetarian",
+        "Fried",
+        "Chickpeas",
+        "Street Food"
+      ],
+      "createdAt": "2025-01-02T14:00:00Z",
+      "updatedAt": "2025-01-02T14:00:00Z"
+    },
+    {
+      "id": "28",
+      "title": "Chicken Tikka Masala",
+      "description": "Grilled chicken in creamy tomato-based curry sauce.",
+      "category": "chicken",
+      "cookTime": 50,
+      "servings": 6,
+      "imageUrl": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg",
+      "ingredients": [
+        {
+          "item": "Chicken breast (cubed)",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "item": "Yogurt",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Lemon juice",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Ginger-garlic paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Turmeric",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Heavy cream",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Tomato sauce",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Butter",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Kasuri methi",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, lemon juice, ginger-garlic paste, and half the garam masala for 2 hours.",
+        "Grill or broil chicken until charred.",
+        "Heat butter in pan and add tomato sauce.",
+        "Add remaining garam masala and turmeric.",
+        "Simmer for 10 minutes.",
+        "Add heavy cream and kasuri methi.",
+        "Add grilled chicken and simmer 10 minutes.",
+        "Serve with naan or rice."
+      ],
+      "tags": [
+        "Indian",
+        "Chicken",
+        "Curry",
+        "Creamy",
+        "Popular"
+      ],
+      "createdAt": "2025-01-02T18:00:00Z",
+      "updatedAt": "2025-01-02T18:00:00Z"
+    },
+    {
+      "id": "31",
+      "title": "Ramen",
+      "description": "Japanese noodle soup with rich broth and toppings.",
+      "category": "quick",
+      "cookTime": 30,
+      "servings": 4,
+      "imageUrl": "https://www.justonecookbook.com/wp-content/uploads/2023/04/Spicy-Shoyu-Ramen-8055-I.jpg",
+      "ingredients": [
+        {
+          "item": "Ramen noodles",
+          "quantity": 4,
+          "unit": "portions"
+        },
+        {
+          "item": "Chicken or pork broth",
+          "quantity": 6,
+          "unit": "cups"
+        },
+        {
+          "item": "Soy sauce",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Miso paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Soft-boiled eggs",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Pork belly or chicken",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "item": "Green onions",
+          "quantity": 4,
+          "unit": "stalks"
+        },
+        {
+          "item": "Nori sheets",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Bamboo shoots",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Sesame oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Bring broth to boil and add soy sauce and miso paste.",
+        "Cook noodles according to package directions.",
+        "Cook pork belly or chicken and slice.",
+        "Prepare soft-boiled eggs (6 minutes).",
+        "Divide noodles among bowls.",
+        "Pour hot broth over noodles.",
+        "Top with sliced meat, halved egg, green onions, nori, and bamboo shoots.",
+        "Drizzle with sesame oil.",
+        "Serve immediately."
+      ],
+      "tags": [
+        "Japanese",
+        "Noodles",
+        "Soup",
+        "Comfort Food",
+        "Quick"
+      ],
+      "createdAt": "2025-01-02T19:30:00Z",
+      "updatedAt": "2025-01-02T19:30:00Z"
+    },
+    {
+      "id": "36",
+      "title": "Fettuccine Alfredo",
+      "description": "Creamy Italian pasta with Parmesan and butter.",
+      "category": "vegetarian",
+      "cookTime": 20,
+      "servings": 4,
+      "imageUrl": "https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg",
+      "ingredients": [
+        {
+          "item": "Fettuccine pasta",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "item": "Butter",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Heavy cream",
+          "quantity": 1.5,
+          "unit": "cups"
+        },
+        {
+          "item": "Parmesan cheese (grated)",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Garlic (minced)",
+          "quantity": 3,
+          "unit": "cloves"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Black pepper",
+          "quantity": 1,
+          "unit": "to taste"
+        },
+        {
+          "item": "Fresh parsley",
+          "quantity": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Cook fettuccine according to package directions.",
+        "Melt butter in large pan over medium heat.",
+        "Add minced garlic and cook for 1 minute.",
+        "Add heavy cream and bring to simmer.",
+        "Gradually whisk in Parmesan cheese.",
+        "Season with salt and pepper.",
+        "Toss cooked pasta with sauce.",
+        "Garnish with fresh parsley.",
+        "Serve immediately."
+      ],
+      "tags": [
+        "Italian",
+        "Pasta",
+        "Creamy",
+        "Quick",
+        "Classic"
+      ],
+      "createdAt": "2025-01-02T22:00:00Z",
+      "updatedAt": "2025-01-02T22:00:00Z"
+    },
+    {
+      "id": "45",
+      "title": "Samosas",
+      "description": "Indian crispy fried pastries filled with spiced potatoes.",
+      "category": "vegetarian",
+      "cookTime": 60,
+      "servings": 6,
+      "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-recipe-1.jpg",
+      "ingredients": [
+        {
+          "item": "All-purpose flour",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Potatoes (boiled, mashed)",
+          "quantity": 4,
+          "unit": "large"
+        },
+        {
+          "item": "Green peas",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Coriander powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "item": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Green chilies",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Ginger (minced)",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Oil for frying",
+          "quantity": 4,
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        "Make dough: mix flour with water and oil. Knead and rest 30 minutes.",
+        "Cook filling: heat oil, add cumin seeds, ginger, and green chilies.",
+        "Add peas and spices. Mix in mashed potatoes. Cool.",
+        "Roll dough into circles, cut in half.",
+        "Form cones, fill with potato mixture, seal edges.",
+        "Heat oil to 350\u00b0F.",
+        "Deep fry samosas until golden brown.",
+        "Serve with mint chutney."
+      ],
+      "tags": [
+        "Indian",
+        "Vegetarian",
+        "Fried",
+        "Snack",
+        "Street Food"
+      ],
+      "createdAt": "2025-01-03T03:00:00Z",
+      "updatedAt": "2025-01-03T03:00:00Z"
+    }
+  ]
+}
