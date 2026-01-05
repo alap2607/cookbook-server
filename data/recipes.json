@@ -5,6 +5,7 @@
       "title": "Creamy Paneer Butter Masala",
       "description": "Rich, creamy, and packed with aromatic spices\u2014a vegetarian classic!",
       "category": "vegetarian",
+      "cusine": "Indian",
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=600&h=400&fit=crop",
@@ -75,13 +76,7 @@
         "Add paneer cubes and simmer for 5 minutes.",
         "Garnish with cream and serve hot with naan or rice."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Creamy",
-        "Spicy",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Creamy", "Spicy", "Main Course"],
       "createdAt": "2025-01-01T10:00:00Z",
       "updatedAt": "2025-01-01T10:00:00Z"
     },
@@ -90,6 +85,7 @@
       "title": "Tandoori Chicken",
       "description": "Juicy, flavorful chicken marinated in yogurt and spices, grilled to perfection.",
       "category": "chicken",
+      "cusine": "Indian",
       "cookTime": 40,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&h=400&fit=crop",
@@ -154,13 +150,7 @@
         "Grill or bake for 35-40 minutes, turning halfway, until chicken is charred and cooked through.",
         "Garnish with lemon wedges and sliced onions. Serve hot with mint chutney."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Grilled",
-        "Spicy",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Chicken", "Grilled", "Spicy", "Main Course"],
       "createdAt": "2025-01-01T10:30:00Z",
       "updatedAt": "2025-01-01T10:30:00Z"
     },
@@ -169,6 +159,7 @@
       "title": "Dal Tadka",
       "description": "Comforting lentils tempered with aromatic spices\u2014perfect with rice!",
       "category": "vegetarian",
+      "cusine": "Indian",
       "cookTime": 35,
       "servings": 4,
       "imageUrl": "https://sinfullyspicy.com/wp-content/uploads/2014/08/1200-by-1200-images.jpg",
@@ -246,13 +237,7 @@
         "Pour this tempering (tadka) over the cooked dal. Mix gently.",
         "Garnish with fresh coriander leaves. Serve hot with rice or roti."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Lentils",
-        "Comfort Food",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Lentils", "Comfort Food", "Main Course"],
       "createdAt": "2025-01-01T11:00:00Z",
       "updatedAt": "2025-12-30T19:43:44.686Z"
     },
@@ -261,6 +246,7 @@
       "title": "Spicy Chicken Tacos",
       "description": "A fusion favorite with Indian spice twist on a Mexican classic.",
       "category": "chicken",
+      "cusine": "Indian Fusion",
       "cookTime": 25,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&h=400&fit=crop",
@@ -355,13 +341,7 @@
         "Drizzle with sour cream or yogurt.",
         "Garnish with fresh cilantro and serve with lime wedges."
       ],
-      "tags": [
-        "Fusion",
-        "Chicken",
-        "Mexican",
-        "Spicy",
-        "Quick Meals"
-      ],
+      "tags": ["Fusion", "Chicken", "Mexican", "Spicy", "Quick Meals"],
       "createdAt": "2025-01-01T11:30:00Z",
       "updatedAt": "2025-01-01T11:30:00Z"
     },
@@ -370,6 +350,7 @@
       "title": "Butter Chicken",
       "description": "Creamy, mildly spiced tomato-based curry with tender chicken pieces.",
       "category": "chicken",
+      "cusine": "North Indian",
       "cookTime": 45,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600&h=400&fit=crop",
@@ -441,13 +422,7 @@
         "Simmer for 5 more minutes until the gravy thickens.",
         "Garnish with cream and serve hot with naan or basmati rice."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Creamy",
-        "Popular",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Chicken", "Creamy", "Popular", "Main Course"],
       "createdAt": "2025-01-01T12:00:00Z",
       "updatedAt": "2025-01-01T12:00:00Z"
     },
@@ -456,6 +431,7 @@
       "title": "Palak Paneer",
       "description": "Fresh spinach curry with soft paneer cubes\u2014healthy and delicious!",
       "category": "vegetarian",
+      "cusine": "North Indian",
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://beextravegant.com/wp-content/uploads/2021/08/Palak-paneer-7-edited.jpg",
@@ -528,13 +504,7 @@
         "Add paneer cubes and heavy cream. Simmer for 5 minutes.",
         "Serve hot with roti or rice."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Healthy",
-        "Spinach",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Healthy", "Spinach", "Main Course"],
       "createdAt": "2025-01-01T12:30:00Z",
       "updatedAt": "2025-01-01T12:30:00Z"
     },
@@ -543,6 +513,7 @@
       "title": "Vegetable Biryani",
       "description": "Aromatic basmati rice layered with spiced vegetables\u2014a complete meal!",
       "category": "vegetarian",
+      "cusine": "Indian",
       "cookTime": 50,
       "servings": 6,
       "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&h=400&fit=crop",
@@ -630,13 +601,7 @@
         "Cover tightly and cook on low heat for 20 minutes (dum cooking).",
         "Gently mix and serve hot with raita and papad."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Rice",
-        "Biryani",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Rice", "Biryani", "Main Course"],
       "createdAt": "2025-01-01T13:00:00Z",
       "updatedAt": "2025-01-01T13:00:00Z"
     },
@@ -645,6 +610,7 @@
       "title": "Chicken Fried Rice",
       "description": "Quick and easy Indo-Chinese style fried rice with chicken.",
       "category": "quick",
+      "cusine": "Indo-Chinese",
       "cookTime": 20,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&h=400&fit=crop",
@@ -716,13 +682,7 @@
         "Add cooked chicken and scrambled eggs. Toss everything together.",
         "Garnish with green part of spring onions and serve hot."
       ],
-      "tags": [
-        "Indo-Chinese",
-        "Chicken",
-        "Rice",
-        "Quick Meals",
-        "Fried Rice"
-      ],
+      "tags": ["Indo-Chinese", "Chicken", "Rice", "Quick Meals", "Fried Rice"],
       "createdAt": "2025-01-01T13:30:00Z",
       "updatedAt": "2025-01-01T13:30:00Z"
     },
@@ -731,6 +691,7 @@
       "title": "Chana Masala",
       "description": "Spicy chickpea curry packed with flavor\u2014perfect protein-rich vegetarian meal.",
       "category": "spicy",
+      "cusine": "Indian",
       "cookTime": 35,
       "servings": 4,
       "imageUrl": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2020/01/easy-chana-masala-pan-800x1200.jpg",
@@ -813,13 +774,7 @@
         "Garnish with fresh coriander leaves.",
         "Serve hot with bhature, kulcha, or rice."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Spicy",
-        "Chickpeas",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Spicy", "Chickpeas", "Main Course"],
       "createdAt": "2025-01-01T14:00:00Z",
       "updatedAt": "2025-01-01T14:00:00Z"
     },
@@ -828,6 +783,7 @@
       "title": "Chicken Biryani",
       "description": "Fragrant and flavorful rice dish layered with marinated chicken\u2014the ultimate comfort food!",
       "category": "chicken",
+      "cusine": "Indian",
       "cookTime": 60,
       "servings": 6,
       "imageUrl": "https://ministryofcurry.com/wp-content/uploads/2024/06/chicken-biryani-5.jpg",
@@ -925,13 +881,7 @@
         "Cover tightly with foil and lid. Cook on high heat for 3 minutes, then low heat for 25 minutes (dum).",
         "Let it rest for 5 minutes before opening. Gently mix and serve hot with raita."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Biryani",
-        "Rice",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Chicken", "Biryani", "Rice", "Main Course"],
       "createdAt": "2025-01-01T14:30:00Z",
       "updatedAt": "2025-01-01T14:30:00Z"
     },
@@ -940,6 +890,7 @@
       "title": "Pachi Mirchi Paneer Pulao",
       "description": "Aromatic rice cooked with green chilies and paneer\u2014a spicy South Indian delight!",
       "category": "spicy",
+      "cusine": "South Indian",
       "cookTime": 40,
       "servings": 4,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98eA3bFL9kk9lQxWa-HeDfjG3_1pem_aS1g&s",
@@ -1046,13 +997,7 @@
         "Garnish with remaining mint and coriander leaves.",
         "Serve hot with raita or pickle."
       ],
-      "tags": [
-        "South Indian",
-        "Vegetarian",
-        "Spicy",
-        "Rice",
-        "Paneer"
-      ],
+      "tags": ["South Indian", "Vegetarian", "Spicy", "Rice", "Paneer"],
       "createdAt": "2025-01-01T15:00:00Z",
       "updatedAt": "2025-12-31T20:29:54.931Z"
     },
@@ -1061,6 +1006,7 @@
       "title": "Classic Margherita Pizza",
       "description": "Authentic Italian pizza with fresh mozzarella, tomatoes, and basil.",
       "category": "vegetarian",
+      "cusine": "Italian",
       "cookTime": 25,
       "servings": 2,
       "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&h=400&fit=crop",
@@ -1117,13 +1063,7 @@
         "Remove from oven and immediately top with fresh basil leaves.",
         "Slice and serve hot."
       ],
-      "tags": [
-        "Italian",
-        "Vegetarian",
-        "Pizza",
-        "Quick",
-        "Classic"
-      ],
+      "tags": ["Italian", "Vegetarian", "Pizza", "Quick", "Classic"],
       "createdAt": "2025-01-02T10:00:00Z",
       "updatedAt": "2025-01-02T10:00:00Z"
     },
@@ -1132,6 +1072,7 @@
       "title": "Pad Thai",
       "description": "Popular Thai stir-fried noodles with tamarind sauce and peanuts.",
       "category": "quick",
+      "cusine": "Thai",
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&h=400&fit=crop",
@@ -1210,13 +1151,7 @@
         "Garnish with crushed peanuts, remaining green onions, and lime wedges.",
         "Serve immediately."
       ],
-      "tags": [
-        "Thai",
-        "Asian",
-        "Noodles",
-        "Street Food",
-        "Popular"
-      ],
+      "tags": ["Thai", "Asian", "Noodles", "Street Food", "Popular"],
       "createdAt": "2025-01-02T10:30:00Z",
       "updatedAt": "2025-01-02T10:30:00Z"
     },
@@ -1225,6 +1160,7 @@
       "title": "Greek Salad",
       "description": "Fresh Mediterranean salad with feta cheese, olives, and crisp vegetables.",
       "category": "vegetarian",
+      "cusine": "Greek",
       "cookTime": 15,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
@@ -1295,13 +1231,7 @@
         "Toss gently before serving.",
         "Serve chilled or at room temperature."
       ],
-      "tags": [
-        "Greek",
-        "Mediterranean",
-        "Salad",
-        "Healthy",
-        "No Cook"
-      ],
+      "tags": ["Greek", "Mediterranean", "Salad", "Healthy", "No Cook"],
       "createdAt": "2025-01-02T11:30:00Z",
       "updatedAt": "2025-01-02T11:30:00Z"
     },
@@ -1310,6 +1240,7 @@
       "title": "Spaghetti Carbonara",
       "description": "Creamy Italian pasta with bacon, eggs, and Parmesan cheese.",
       "category": "quick",
+      "cusine": "Italian",
       "cookTime": 25,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=600&h=400&fit=crop",
@@ -1367,13 +1298,7 @@
         "Garnish with fresh parsley and extra Parmesan.",
         "Serve immediately."
       ],
-      "tags": [
-        "Italian",
-        "Pasta",
-        "Creamy",
-        "Quick",
-        "Classic"
-      ],
+      "tags": ["Italian", "Pasta", "Creamy", "Quick", "Classic"],
       "createdAt": "2025-01-02T12:30:00Z",
       "updatedAt": "2025-01-02T12:30:00Z"
     },
@@ -1382,6 +1307,7 @@
       "title": "Kung Pao Chicken",
       "description": "Spicy Sichuan-style stir-fry with chicken, peanuts, and vegetables.",
       "category": "spicy",
+      "cusine": "Chinese",
       "cookTime": 25,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&h=400&fit=crop",
@@ -1464,13 +1390,7 @@
         "Drizzle with sesame oil.",
         "Serve hot over steamed rice."
       ],
-      "tags": [
-        "Chinese",
-        "Sichuan",
-        "Spicy",
-        "Stir-Fry",
-        "Chicken"
-      ],
+      "tags": ["Chinese", "Sichuan", "Spicy", "Stir-Fry", "Chicken"],
       "createdAt": "2025-01-02T13:00:00Z",
       "updatedAt": "2025-01-02T13:00:00Z"
     },
@@ -1479,6 +1399,7 @@
       "title": "Falafel",
       "description": "Crispy Middle Eastern chickpea fritters served with tahini sauce.",
       "category": "vegetarian",
+      "cusine": "Middle Eastern",
       "cookTime": 40,
       "servings": 4,
       "imageUrl": "https://www.themediterraneandish.com/wp-content/uploads/2020/02/falafel-recipe-1.jpg",
@@ -1544,13 +1465,7 @@
         "Deep fry falafel until golden brown, about 3-4 minutes.",
         "Drain on paper towels and serve with tahini sauce."
       ],
-      "tags": [
-        "Middle Eastern",
-        "Vegetarian",
-        "Fried",
-        "Chickpeas",
-        "Street Food"
-      ],
+      "tags": ["Middle Eastern", "Vegetarian", "Fried", "Chickpeas", "Street Food"],
       "createdAt": "2025-01-02T14:00:00Z",
       "updatedAt": "2025-01-02T14:00:00Z"
     },
@@ -1559,6 +1474,7 @@
       "title": "Chicken Tikka Masala",
       "description": "Grilled chicken in creamy tomato-based curry sauce.",
       "category": "chicken",
+      "cusine": "Indian",
       "cookTime": 50,
       "servings": 6,
       "imageUrl": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg",
@@ -1624,13 +1540,7 @@
         "Add grilled chicken and simmer 10 minutes.",
         "Serve with naan or rice."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Curry",
-        "Creamy",
-        "Popular"
-      ],
+      "tags": ["Indian", "Chicken", "Curry", "Creamy", "Popular"],
       "createdAt": "2025-01-02T18:00:00Z",
       "updatedAt": "2025-01-02T18:00:00Z"
     },
@@ -1639,6 +1549,7 @@
       "title": "Ramen",
       "description": "Japanese noodle soup with rich broth and toppings.",
       "category": "quick",
+      "cusine": "Japanese",
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://www.justonecookbook.com/wp-content/uploads/2023/04/Spicy-Shoyu-Ramen-8055-I.jpg",
@@ -1705,13 +1616,7 @@
         "Drizzle with sesame oil.",
         "Serve immediately."
       ],
-      "tags": [
-        "Japanese",
-        "Noodles",
-        "Soup",
-        "Comfort Food",
-        "Quick"
-      ],
+      "tags": ["Japanese", "Noodles", "Soup", "Comfort Food", "Quick"],
       "createdAt": "2025-01-02T19:30:00Z",
       "updatedAt": "2025-01-02T19:30:00Z"
     },
@@ -1720,6 +1625,7 @@
       "title": "Fettuccine Alfredo",
       "description": "Creamy Italian pasta with Parmesan and butter.",
       "category": "vegetarian",
+      "cusine": "Italian",
       "cookTime": 20,
       "servings": 4,
       "imageUrl": "https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg",
@@ -1776,13 +1682,7 @@
         "Garnish with fresh parsley.",
         "Serve immediately."
       ],
-      "tags": [
-        "Italian",
-        "Pasta",
-        "Creamy",
-        "Quick",
-        "Classic"
-      ],
+      "tags": ["Italian", "Pasta", "Creamy", "Quick", "Classic"],
       "createdAt": "2025-01-02T22:00:00Z",
       "updatedAt": "2025-01-02T22:00:00Z"
     },
@@ -1791,6 +1691,7 @@
       "title": "Samosas",
       "description": "Indian crispy fried pastries filled with spiced potatoes.",
       "category": "vegetarian",
+      "cusine": "Indian",
       "cookTime": 60,
       "servings": 6,
       "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-recipe-1.jpg",
@@ -1851,13 +1752,7 @@
         "Deep fry samosas until golden brown.",
         "Serve with mint chutney."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Fried",
-        "Snack",
-        "Street Food"
-      ],
+      "tags": ["Indian", "Vegetarian", "Fried", "Snack", "Street Food"],
       "createdAt": "2025-01-03T03:00:00Z",
       "updatedAt": "2025-01-03T03:00:00Z"
     }
