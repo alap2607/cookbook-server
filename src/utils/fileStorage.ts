@@ -1,9 +1,15 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { Recipe, RecipeData } from '../models/Recipe';
+import { User } from '../models/User';
 import { v4 as uuidv4 } from 'uuid';
 
 const DATA_FILE = path.join(__dirname, '../../data/recipes.json');
+const USERS_FILE = path.join(__dirname, '../../data/users.json');
+
+interface UsersData {
+  users: User[];
+}
 
 // Write queue to prevent concurrent writes
 let isWriting = false;
@@ -115,4 +121,53 @@ export async function deleteRecipe(id: string): Promise<boolean> {
 
   await writeRecipes(filteredRecipes);
   return true;
+}
+
+// User storage functions
+export async function readUsers(): Promise<User[]> {
+  try {
+    const data = await fs.readFile(USERS_FILE, 'utf-8');
+    const usersData: UsersData = JSON.parse(data);
+    return usersData.users;
+  } catch (error: any) {
+    if (error.code === 'ENOENT') {
+      return [];
+    }
+    throw error;
+  }
+}
+
+export async function findUserById(id: string): Promise<User | null> {
+  const users = await readUsers();
+  const user = users.find((u) => u.id === id);
+  return user || null;
+}
+
+export async function findUserByUsername(username: string): Promise<User | null> {
+  const users = await readUsers();
+  const user = users.find((u) => u.username.toLowerCase() === username.toLowerCase());
+  return user || null;
+}
+
+export async function updateUser(id: string, updates: Partial<Omit<User, 'id'>>): Promise<User | null> {
+  const users = await readUsers();
+  const index = users.findIndex((u) => u.id === id);
+
+  if (index === -1) {
+    return null;
+  }
+
+  const updatedUser: User = {
+    ...users[index],
+    ...updates,
+  };
+
+  users[index] = updatedUser;
+
+  const data: UsersData = { users };
+  await queueWrite(async () => {
+    await fs.writeFile(USERS_FILE, JSON.stringify(data, null, 2), 'utf-8');
+  });
+
+  return updatedUser;
 }

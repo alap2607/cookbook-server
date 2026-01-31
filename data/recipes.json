@@ -2,87 +2,87 @@
   "recipes": [
     {
       "id": "1",
-      "title": "Creamy Paneer Butter Masala",
+      "title": "🧈 Paneer Butter Masala",
       "description": "Rich, creamy, and packed with aromatic spices—a vegetarian classic!",
-      "category": "vegetarian",
-      "cusine": "Indian",
+      "mealType": ["lunch", "dinner"],
+      "cuisine": "north-indian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "intermediate",
+      "healthTags": [],
+      "occasions": ["comfort-food"],
+      "cookingMethod": [],
+      "appExclusive": ["chefs-picks", "most-loved"],
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Paneer (cubed)",
-          "quantity": 250,
-          "unit": "g"
-        },
-        {
-          "item": "Butter",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Tomato puree",
-          "quantity": 1.5,
-          "unit": "cups"
-        },
-        {
-          "item": "Heavy cream",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Onion (finely chopped)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Kashmiri red chili powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Kasuri methi (dried fenugreek)",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Sugar",
-          "quantity": 1,
-          "unit": "tsp"
-        }
+        { "subheading": "For Panner", "quantity": null, "unit": null },
+        { "item": "Paneer (cubed)", "quantity": 250, "unit": "g" },
+        { "item": "Warm Water (to soak paneer, keeps it soft)", "quantity": 300, "unit": "ml" },
+        { "subheading": "For Gravy Base", "quantity": null, "unit": null },
+        { "item": "Butter (use Unsalted", "quantity": 3, "unit": "tbsp" },
+        { "item": "Oil (prevents butter from burning)", "quantity": 1, "unit": "tbsp" },
+        { "item": "Bay Leaf", "quantity": 1, "unit": "medium" },
+        { "item": "Cinnamon", "quantity": 2, "unit": "medium" },
+        { "item": "Cloves", "quantity": 2, "unit": "small" },
+        { "item": "Onion", "quantity": 1, "unit": "large, roughly chopped" },
+        { "item": "Garlic", "quantity": 6, "unit": "small" },
+        { "item": "Ginger", "quantity": 1, "unit": "inch" },
+        { "item": "Green Chilies (optional)", "quantity": 1, "unit": "large" },
+        { "subheading": "Tomato-Cahewnut Paste", "quantity": null, "unit": null },
+        { "item": "Tomatos", "quantity": 4, "unit": "large" },
+        { "item": "Cashew Nuts (soak in warm water for 15 mins)", "quantity": 15, "unit": "whole," },
+        { "subheading": "Spices", "quantity": null, "unit": null },
+        { "item": "Kashmiri red chili powder", "quantity": 1.5, "unit": "tsp" },
+        { "item": "Red chili powder", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Coriander powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Turmeric powder", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Sugar/honey (balance acidity)", "quantity": 1, "unit": "tsp " },
+        { "subheading": "Finishing Touches", "quantity": null, "unit": null },
+        { "item": "Fresh Cream (for garnish)", "quantity": 2, "unit": "tbsp " },
+        { "item": "Kasuri Methi (dried fenugreek leaves)", "quantity": 1, "unit": "tsp " },
+        { "item": "Butter (optional, for extra richness)", "quantity": 1, "unit": "tbsp " },
+        { "item": "Water (adjust consistency)", "quantity": 0.5, "unit": "cup " }
       ],
       "instructions": [
-        "Heat butter in a pan over medium heat.",
-        "Add chopped onions and sauté until golden brown.",
-        "Add ginger-garlic paste and cook for 1-2 minutes until fragrant.",
-        "Add tomato puree, red chili powder, salt, and sugar. Cook for 8-10 minutes until oil separates.",
-        "Add garam masala and kasuri methi. Mix well.",
-        "Add heavy cream and stir to combine.",
-        "Add paneer cubes and simmer for 5 minutes.",
-        "Garnish with cream and serve hot with naan or rice."
+        { "subheading": "🔹 Step 1: Prep paneer" },
+        "Cut paneer into cubes.",
+        "Soak in warm salted water for 10–15 minutes.",
+        { "subheading": "🔹 Step 2: Make tomato-cashew paste" },
+        "Boil tomatoes for 8–10 minutes until skin peels easily.",
+        "Peel skins and blend tomatoes + soaked cashews into a smooth paste.",
+        "Strain the paste for ultra-smooth gravy (restaurant secret ✔️).",
+        "Keep aside.",
+        { "subheading": "🔹 Step 3: Prepare onion paste" },
+        "Heat 1 tbsp oil + 1 tbsp butter in a pan.",
+        "Add bay leaf, cardamom, cinnamon, cloves.",
+        "Add chopped onion, ginger, garlic, green chilli.",
+        "Sauté till onions turn light golden (not dark).",
+        "Cool slightly → grind into a smooth paste.",
+        { "subheading": "🔹 Step 4: Cook the gravy" },
+        "Heat 2 tbsp butter in the same pan.",
+        "Add onion paste, cook on medium flame for 5–6 minutes till raw smell goes.",
+        "Add turmeric, coriander powder, chilli powders.",
+        "Mix well and cook till butter starts releasing.",
+        { "subheading": "🔹 Step 5: Add tomato-cashew paste" },
+        "Add strained tomato-cashew puree.",
+        "Cook on low–medium flame for 8–10 minutes.",
+        "Stir often to avoid splashing.",
+        "Add salt and sugar.",
+        { "subheading": "🔹 Step 6: Finish the dish" },
+        "Add water to adjust consistency.",
+        "Add paneer cubes.",
+        "Simmer for 3–4 minutes only (don’t overcook).",
+        "Add cream, garam masala, kasuri methi.",
+        "Add 1 tbsp butter, mix gently.",
+        "Switch off flame.",
+        { "subheading": "🔹 Step 7: Serve" },
+        "Serve it hot with roti and rice."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Creamy",
-        "Spicy",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Creamy", "Spicy", "Main Course", "Paneer"],
+      "rating": 4.8,
       "createdAt": "2025-01-01T10:00:00Z",
       "updatedAt": "2025-01-01T10:00:00Z"
     },
@@ -90,62 +90,28 @@
       "id": "2",
       "title": "Tandoori Chicken",
       "description": "Juicy, flavorful chicken marinated in yogurt and spices, grilled to perfection.",
-      "category": "chicken",
-      "cusine": "Indian",
+      "mealType": "dinner",
+      "cuisine": "north-indian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "intermediate",
+      "healthTags": ["high-protein"],
+      "occasions": ["party"],
+      "cookingMethod": "oven-baked",
+      "appExclusive": ["trending"],
       "cookTime": 40,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Chicken legs or thighs",
-          "quantity": 800,
-          "unit": "g"
-        },
-        {
-          "item": "Greek yogurt",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Lemon juice",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Tandoori masala",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Kashmiri red chili powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Turmeric powder",
-          "quantity": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Vegetable oil",
-          "quantity": 2,
-          "unit": "tbsp"
-        }
+        { "item": "Chicken legs or thighs", "quantity": 800, "unit": "g" },
+        { "item": "Greek yogurt", "quantity": 1, "unit": "cup" },
+        { "item": "Lemon juice", "quantity": 2, "unit": "tbsp" },
+        { "item": "Ginger-garlic paste", "quantity": 2, "unit": "tbsp" },
+        { "item": "Tandoori masala", "quantity": 2, "unit": "tbsp" },
+        { "item": "Kashmiri red chili powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Turmeric powder", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 1, "unit": "tsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Vegetable oil", "quantity": 2, "unit": "tbsp" }
       ],
       "instructions": [
         "Make deep cuts in the chicken pieces to allow marinade to penetrate.",
@@ -156,13 +122,8 @@
         "Grill or bake for 35-40 minutes, turning halfway, until chicken is charred and cooked through.",
         "Garnish with lemon wedges and sliced onions. Serve hot with mint chutney."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Grilled",
-        "Spicy",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Chicken", "Grilled", "Spicy", "Main Course"],
+      "rating": 4.7,
       "createdAt": "2025-01-01T10:30:00Z",
       "updatedAt": "2025-01-01T10:30:00Z"
     },
@@ -170,72 +131,30 @@
       "id": "3",
       "title": "Dal Tadka",
       "description": "Comforting lentils tempered with aromatic spices—perfect with rice!",
-      "category": "vegetarian",
-      "cusine": "Indian",
+      "mealType": "dinner",
+      "cuisine": "indian",
+      "dietPreferences": ["vegetarian", "vegan"],
+      "difficulty": "beginner",
+      "healthTags": ["high-protein", "heart-healthy"],
+      "occasions": ["comfort-food"],
+      "cookingMethod": "pressure-cooker",
+      "appExclusive": ["editors-choice"],
       "cookTime": 35,
       "servings": 4,
       "imageUrl": "https://sinfullyspicy.com/wp-content/uploads/2014/08/1200-by-1200-images.jpg",
       "ingredients": [
-        {
-          "item": "Water",
-          "quantity": 3,
-          "unit": "cups"
-        },
-        {
-          "item": "Turmeric powder",
-          "quantity": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Ghee or oil",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Cumin seeds",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garlic cloves (minced)",
-          "quantity": 4,
-          "unit": "whole"
-        },
-        {
-          "item": "Dried red chilies",
-          "quantity": 2,
-          "unit": "whole"
-        },
-        {
-          "item": "Onion (sliced)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Tomato (chopped)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Green chili (slit)",
-          "quantity": 1,
-          "unit": "whole"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Coriander leaves (chopped)",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Water", "quantity": 3, "unit": "cups" },
+        { "item": "Turmeric powder", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Ghee or oil", "quantity": 2, "unit": "tbsp" },
+        { "item": "Cumin seeds", "quantity": 1, "unit": "tsp" },
+        { "item": "Garlic cloves (minced)", "quantity": 4, "unit": "whole" },
+        { "item": "Dried red chilies", "quantity": 2, "unit": "whole" },
+        { "item": "Onion (sliced)", "quantity": 1, "unit": "medium" },
+        { "item": "Tomato (chopped)", "quantity": 1, "unit": "medium" },
+        { "item": "Green chili (slit)", "quantity": 1, "unit": "whole" },
+        { "item": "Garam masala", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Coriander leaves (chopped)", "quantity": 2, "unit": "tbsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Rinse lentils thoroughly and soak for 15 minutes.",
@@ -249,13 +168,8 @@
         "Pour this tempering (tadka) over the cooked dal. Mix gently.",
         "Garnish with fresh coriander leaves. Serve hot with rice or roti."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Lentils",
-        "Comfort Food",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Lentils", "Comfort Food", "Main Course", "Dal"],
+      "rating": 4.6,
       "createdAt": "2025-01-01T11:00:00Z",
       "updatedAt": "2025-12-30T19:43:44.686Z"
     },
@@ -263,92 +177,34 @@
       "id": "4",
       "title": "Spicy Chicken Tacos",
       "description": "A fusion favorite with Indian spice twist on a Mexican classic.",
-      "category": "chicken",
-      "cusine": "Indian Fusion",
+      "mealType": "dinner",
+      "cuisine": "fusion",
+      "dietPreferences": ["chicken"],
+      "difficulty": "beginner",
+      "healthTags": ["high-protein"],
+      "occasions": ["party"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["new-this-week"],
       "cookTime": 25,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Chicken breast (diced)",
-          "quantity": 500,
-          "unit": "g"
-        },
-        {
-          "item": "Taco shells or tortillas",
-          "quantity": 8,
-          "unit": "whole"
-        },
-        {
-          "item": "Yogurt",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Red chili powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Cumin powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Coriander powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Lettuce (shredded)",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Tomato (diced)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Onion (sliced)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Sour cream or yogurt",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Cilantro (chopped)",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Lime wedges",
-          "quantity": 4,
-          "unit": "whole"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Oil",
-          "quantity": 2,
-          "unit": "tbsp"
-        }
+        { "item": "Chicken breast (diced)", "quantity": 500, "unit": "g" },
+        { "item": "Taco shells or tortillas", "quantity": 8, "unit": "whole" },
+        { "item": "Yogurt", "quantity": 0.5, "unit": "cup" },
+        { "item": "Ginger-garlic paste", "quantity": 1, "unit": "tbsp" },
+        { "item": "Red chili powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Cumin powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Coriander powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Lettuce (shredded)", "quantity": 1, "unit": "cup" },
+        { "item": "Tomato (diced)", "quantity": 1, "unit": "medium" },
+        { "item": "Onion (sliced)", "quantity": 1, "unit": "medium" },
+        { "item": "Sour cream or yogurt", "quantity": 0.25, "unit": "cup" },
+        { "item": "Cilantro (chopped)", "quantity": 2, "unit": "tbsp" },
+        { "item": "Lime wedges", "quantity": 4, "unit": "whole" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Oil", "quantity": 2, "unit": "tbsp" }
       ],
       "instructions": [
         "In a bowl, marinate chicken with yogurt, ginger-garlic paste, red chili powder, cumin, coriander, garam masala, and salt for 30 minutes.",
@@ -359,81 +215,38 @@
         "Drizzle with sour cream or yogurt.",
         "Garnish with fresh cilantro and serve with lime wedges."
       ],
-      "tags": [
-        "Fusion",
-        "Chicken",
-        "Mexican",
-        "Spicy",
-        "Quick Meals"
-      ],
-      "createdAt": "2025-01-01T11:30:00Z",
-      "updatedAt": "2025-01-01T11:30:00Z"
+      "tags": ["Fusion", "Chicken", "Mexican", "Spicy", "Quick Meals"],
+      "rating": 4.5,
+      "createdAt": "2026-01-25T11:30:00Z",
+      "updatedAt": "2026-01-25T11:30:00Z"
     },
     {
       "id": "5",
       "title": "Butter Chicken",
       "description": "Creamy, mildly spiced tomato-based curry with tender chicken pieces.",
-      "category": "chicken",
-      "cusine": "North Indian",
+      "mealType": "dinner",
+      "cuisine": "north-indian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "intermediate",
+      "healthTags": ["high-protein"],
+      "occasions": ["comfort-food", "party"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["chefs-picks", "most-loved"],
       "cookTime": 45,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Chicken breast or thighs (cubed)",
-          "quantity": 700,
-          "unit": "g"
-        },
-        {
-          "item": "Butter",
-          "quantity": 4,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Heavy cream",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Tomato puree",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Yogurt",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Kashmiri red chili powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Kasuri methi",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Honey",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Chicken breast or thighs (cubed)", "quantity": 700, "unit": "g" },
+        { "item": "Butter", "quantity": 4, "unit": "tbsp" },
+        { "item": "Heavy cream", "quantity": 1, "unit": "cup" },
+        { "item": "Tomato puree", "quantity": 2, "unit": "cups" },
+        { "item": "Yogurt", "quantity": 0.5, "unit": "cup" },
+        { "item": "Ginger-garlic paste", "quantity": 2, "unit": "tbsp" },
+        { "item": "Kashmiri red chili powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 1.5, "unit": "tsp" },
+        { "item": "Kasuri methi", "quantity": 1, "unit": "tsp" },
+        { "item": "Honey", "quantity": 1, "unit": "tsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Marinate chicken with yogurt, half the ginger-garlic paste, and salt for 30 minutes.",
@@ -446,13 +259,8 @@
         "Simmer for 5 more minutes until the gravy thickens.",
         "Garnish with cream and serve hot with naan or basmati rice."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Creamy",
-        "Popular",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Chicken", "Creamy", "Popular", "Main Course"],
+      "rating": 4.9,
       "createdAt": "2025-01-01T12:00:00Z",
       "updatedAt": "2025-01-01T12:00:00Z"
     },
@@ -460,67 +268,29 @@
       "id": "6",
       "title": "Palak Paneer",
       "description": "Fresh spinach curry with soft paneer cubes—healthy and delicious!",
-      "category": "vegetarian",
-      "cusine": "North Indian",
+      "mealType": "dinner",
+      "cuisine": "north-indian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "intermediate",
+      "healthTags": ["weight-loss", "heart-healthy"],
+      "occasions": ["comfort-food"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["editors-choice"],
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://beextravegant.com/wp-content/uploads/2021/08/Palak-paneer-7-edited.jpg",
       "ingredients": [
-        {
-          "item": "Fresh spinach (washed)",
-          "quantity": 500,
-          "unit": "g"
-        },
-        {
-          "item": "Paneer (cubed)",
-          "quantity": 250,
-          "unit": "g"
-        },
-        {
-          "item": "Onion (chopped)",
-          "quantity": 1,
-          "unit": "large"
-        },
-        {
-          "item": "Tomato (chopped)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Green chilies",
-          "quantity": 2,
-          "unit": "whole"
-        },
-        {
-          "item": "Cumin seeds",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Heavy cream",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Oil or ghee",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Fresh spinach (washed)", "quantity": 500, "unit": "g" },
+        { "item": "Paneer (cubed)", "quantity": 250, "unit": "g" },
+        { "item": "Onion (chopped)", "quantity": 1, "unit": "large" },
+        { "item": "Tomato (chopped)", "quantity": 1, "unit": "medium" },
+        { "item": "Ginger-garlic paste", "quantity": 1, "unit": "tbsp" },
+        { "item": "Green chilies", "quantity": 2, "unit": "whole" },
+        { "item": "Cumin seeds", "quantity": 1, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 1, "unit": "tsp" },
+        { "item": "Heavy cream", "quantity": 3, "unit": "tbsp" },
+        { "item": "Oil or ghee", "quantity": 2, "unit": "tbsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Blanch spinach in boiling water for 2-3 minutes. Drain and blend with green chilies into a smooth puree.",
@@ -534,13 +304,8 @@
         "Add paneer cubes and heavy cream. Simmer for 5 minutes.",
         "Serve hot with roti or rice."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Healthy",
-        "Spinach",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Healthy", "Spinach", "Main Course", "Paneer"],
+      "rating": 4.7,
       "createdAt": "2025-01-01T12:30:00Z",
       "updatedAt": "2025-01-01T12:30:00Z"
     },
@@ -548,82 +313,32 @@
       "id": "7",
       "title": "Vegetable Biryani",
       "description": "Aromatic basmati rice layered with spiced vegetables—a complete meal!",
-      "category": "vegetarian",
-      "cusine": "Indian",
+      "mealType": "dinner",
+      "cuisine": "indian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "advanced",
+      "healthTags": [],
+      "occasions": ["festival", "party"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["trending"],
       "cookTime": 50,
       "servings": 6,
       "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Basmati rice",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Mixed vegetables (carrots, beans, peas, potatoes)",
-          "quantity": 3,
-          "unit": "cups"
-        },
-        {
-          "item": "Yogurt",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Onions (sliced)",
-          "quantity": 2,
-          "unit": "large"
-        },
-        {
-          "item": "Tomatoes (chopped)",
-          "quantity": 2,
-          "unit": "medium"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Biryani masala",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Mint leaves",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Coriander leaves",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Whole spices (bay leaf, cinnamon, cardamom)",
-          "quantity": 1,
-          "unit": "set"
-        },
-        {
-          "item": "Ghee",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Saffron strands",
-          "quantity": 1,
-          "unit": "pinch"
-        },
-        {
-          "item": "Milk",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Basmati rice", "quantity": 2, "unit": "cups" },
+        { "item": "Mixed vegetables (carrots, beans, peas, potatoes)", "quantity": 3, "unit": "cups" },
+        { "item": "Yogurt", "quantity": 0.5, "unit": "cup" },
+        { "item": "Onions (sliced)", "quantity": 2, "unit": "large" },
+        { "item": "Tomatoes (chopped)", "quantity": 2, "unit": "medium" },
+        { "item": "Ginger-garlic paste", "quantity": 2, "unit": "tbsp" },
+        { "item": "Biryani masala", "quantity": 2, "unit": "tbsp" },
+        { "item": "Mint leaves", "quantity": 0.25, "unit": "cup" },
+        { "item": "Coriander leaves", "quantity": 0.25, "unit": "cup" },
+        { "item": "Whole spices (bay leaf, cinnamon, cardamom)", "quantity": 1, "unit": "set" },
+        { "item": "Ghee", "quantity": 3, "unit": "tbsp" },
+        { "item": "Saffron strands", "quantity": 1, "unit": "pinch" },
+        { "item": "Milk", "quantity": 3, "unit": "tbsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Soak basmati rice for 30 minutes. Boil with whole spices until 70% cooked. Drain and set aside.",
@@ -637,13 +352,8 @@
         "Cover tightly and cook on low heat for 20 minutes (dum cooking).",
         "Gently mix and serve hot with raita and papad."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Rice",
-        "Biryani",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Rice", "Biryani", "Main Course"],
+      "rating": 4.8,
       "createdAt": "2025-01-01T13:00:00Z",
       "updatedAt": "2025-01-01T13:00:00Z"
     },
@@ -651,67 +361,29 @@
       "id": "8",
       "title": "Chicken Fried Rice",
       "description": "Quick and easy Indo-Chinese style fried rice with chicken.",
-      "category": "quick",
-      "cusine": "Indo-Chinese",
+      "mealType": "lunch",
+      "cuisine": "asian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "beginner",
+      "healthTags": ["high-protein"],
+      "occasions": ["lunchbox"],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 20,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Cooked rice (day-old preferred)",
-          "quantity": 4,
-          "unit": "cups"
-        },
-        {
-          "item": "Chicken breast (diced)",
-          "quantity": 300,
-          "unit": "g"
-        },
-        {
-          "item": "Mixed vegetables (carrots, beans, bell peppers)",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Spring onions (chopped)",
-          "quantity": 4,
-          "unit": "stalks"
-        },
-        {
-          "item": "Garlic (minced)",
-          "quantity": 4,
-          "unit": "cloves"
-        },
-        {
-          "item": "Soy sauce",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Vinegar",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Eggs",
-          "quantity": 2,
-          "unit": "whole"
-        },
-        {
-          "item": "Black pepper powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Oil",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Cooked rice (day-old preferred)", "quantity": 4, "unit": "cups" },
+        { "item": "Chicken breast (diced)", "quantity": 300, "unit": "g" },
+        { "item": "Mixed vegetables (carrots, beans, bell peppers)", "quantity": 1, "unit": "cup" },
+        { "item": "Spring onions (chopped)", "quantity": 4, "unit": "stalks" },
+        { "item": "Garlic (minced)", "quantity": 4, "unit": "cloves" },
+        { "item": "Soy sauce", "quantity": 3, "unit": "tbsp" },
+        { "item": "Vinegar", "quantity": 1, "unit": "tbsp" },
+        { "item": "Eggs", "quantity": 2, "unit": "whole" },
+        { "item": "Black pepper powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Oil", "quantity": 3, "unit": "tbsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Heat 1 tbsp oil in a wok or large pan over high heat.",
@@ -724,13 +396,8 @@
         "Add cooked chicken and scrambled eggs. Toss everything together.",
         "Garnish with green part of spring onions and serve hot."
       ],
-      "tags": [
-        "Indo-Chinese",
-        "Chicken",
-        "Rice",
-        "Quick Meals",
-        "Fried Rice"
-      ],
+      "tags": ["Indo-Chinese", "Chicken", "Rice", "Quick Meals", "Fried Rice"],
+      "rating": 4.5,
       "createdAt": "2025-01-01T13:30:00Z",
       "updatedAt": "2025-01-01T13:30:00Z"
     },
@@ -738,77 +405,31 @@
       "id": "9",
       "title": "Chana Masala",
       "description": "Spicy chickpea curry packed with flavor—perfect protein-rich vegetarian meal.",
-      "category": "spicy",
-      "cusine": "Indian",
+      "mealType": "dinner",
+      "cuisine": "indian",
+      "dietPreferences": ["vegetarian", "vegan"],
+      "difficulty": "intermediate",
+      "healthTags": ["high-protein", "weight-loss"],
+      "occasions": ["comfort-food"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["most-loved"],
       "cookTime": 35,
       "servings": 4,
       "imageUrl": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2020/01/easy-chana-masala-pan-800x1200.jpg",
       "ingredients": [
-        {
-          "item": "Chickpeas (boiled or canned)",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Onions (finely chopped)",
-          "quantity": 2,
-          "unit": "medium"
-        },
-        {
-          "item": "Tomatoes (pureed)",
-          "quantity": 2,
-          "unit": "large"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 1.5,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Green chilies (chopped)",
-          "quantity": 2,
-          "unit": "whole"
-        },
-        {
-          "item": "Cumin seeds",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Coriander powder",
-          "quantity": 2,
-          "unit": "tsp"
-        },
-        {
-          "item": "Red chili powder",
-          "quantity": 1.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Amchur (dry mango powder)",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Fresh coriander leaves",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Oil",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Chickpeas (boiled or canned)", "quantity": 2, "unit": "cups" },
+        { "item": "Onions (finely chopped)", "quantity": 2, "unit": "medium" },
+        { "item": "Tomatoes (pureed)", "quantity": 2, "unit": "large" },
+        { "item": "Ginger-garlic paste", "quantity": 1.5, "unit": "tbsp" },
+        { "item": "Green chilies (chopped)", "quantity": 2, "unit": "whole" },
+        { "item": "Cumin seeds", "quantity": 1, "unit": "tsp" },
+        { "item": "Coriander powder", "quantity": 2, "unit": "tsp" },
+        { "item": "Red chili powder", "quantity": 1.5, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 1, "unit": "tsp" },
+        { "item": "Amchur (dry mango powder)", "quantity": 1, "unit": "tsp" },
+        { "item": "Fresh coriander leaves", "quantity": 0.25, "unit": "cup" },
+        { "item": "Oil", "quantity": 3, "unit": "tbsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Heat oil in a pan. Add cumin seeds and let them crackle.",
@@ -822,13 +443,8 @@
         "Garnish with fresh coriander leaves.",
         "Serve hot with bhature, kulcha, or rice."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Spicy",
-        "Chickpeas",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Vegetarian", "Spicy", "Chickpeas", "Main Course"],
+      "rating": 4.7,
       "createdAt": "2025-01-01T14:00:00Z",
       "updatedAt": "2025-01-01T14:00:00Z"
     },
@@ -836,92 +452,34 @@
       "id": "10",
       "title": "Chicken Biryani",
       "description": "Fragrant and flavorful rice dish layered with marinated chicken—the ultimate comfort food!",
-      "category": "chicken",
-      "cusine": "Indian",
+      "mealType": "dinner",
+      "cuisine": "indian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "advanced",
+      "healthTags": ["high-protein"],
+      "occasions": ["festival", "party"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["chefs-picks", "most-loved", "trending"],
       "cookTime": 60,
       "servings": 6,
       "imageUrl": "https://ministryofcurry.com/wp-content/uploads/2024/06/chicken-biryani-5.jpg",
       "ingredients": [
-        {
-          "item": "Basmati rice",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Chicken (cut into pieces)",
-          "quantity": 750,
-          "unit": "g"
-        },
-        {
-          "item": "Yogurt",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Onions (sliced)",
-          "quantity": 3,
-          "unit": "large"
-        },
-        {
-          "item": "Tomatoes (chopped)",
-          "quantity": 2,
-          "unit": "medium"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Biryani masala",
-          "quantity": 2.5,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Red chili powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Mint leaves",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Coriander leaves",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Whole spices (bay leaf, cinnamon, cardamom, cloves)",
-          "quantity": 1,
-          "unit": "set"
-        },
-        {
-          "item": "Ghee",
-          "quantity": 4,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Saffron strands",
-          "quantity": 1,
-          "unit": "pinch"
-        },
-        {
-          "item": "Milk",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Lemon juice",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Basmati rice", "quantity": 2, "unit": "cups" },
+        { "item": "Chicken (cut into pieces)", "quantity": 750, "unit": "g" },
+        { "item": "Yogurt", "quantity": 1, "unit": "cup" },
+        { "item": "Onions (sliced)", "quantity": 3, "unit": "large" },
+        { "item": "Tomatoes (chopped)", "quantity": 2, "unit": "medium" },
+        { "item": "Ginger-garlic paste", "quantity": 3, "unit": "tbsp" },
+        { "item": "Biryani masala", "quantity": 2.5, "unit": "tbsp" },
+        { "item": "Red chili powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Mint leaves", "quantity": 0.5, "unit": "cup" },
+        { "item": "Coriander leaves", "quantity": 0.5, "unit": "cup" },
+        { "item": "Whole spices (bay leaf, cinnamon, cardamom, cloves)", "quantity": 1, "unit": "set" },
+        { "item": "Ghee", "quantity": 4, "unit": "tbsp" },
+        { "item": "Saffron strands", "quantity": 1, "unit": "pinch" },
+        { "item": "Milk", "quantity": 0.25, "unit": "cup" },
+        { "item": "Lemon juice", "quantity": 2, "unit": "tbsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, red chili powder, lemon juice, and salt for 1 hour.",
@@ -935,13 +493,8 @@
         "Cover tightly with foil and lid. Cook on high heat for 3 minutes, then low heat for 25 minutes (dum).",
         "Let it rest for 5 minutes before opening. Gently mix and serve hot with raita."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Biryani",
-        "Rice",
-        "Main Course"
-      ],
+      "tags": ["Indian", "Chicken", "Biryani", "Rice", "Main Course"],
+      "rating": 4.9,
       "createdAt": "2025-01-01T14:30:00Z",
       "updatedAt": "2025-01-01T14:30:00Z"
     },
@@ -949,97 +502,35 @@
       "id": "11",
       "title": "Pachi Mirchi Paneer Pulao",
       "description": "Aromatic rice cooked with green chilies and paneer—a spicy South Indian delight!",
-      "category": "spicy",
-      "cusine": "South Indian",
+      "mealType": "dinner",
+      "cuisine": "south-indian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "intermediate",
+      "healthTags": [],
+      "occasions": [],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 40,
       "servings": 4,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98eA3bFL9kk9lQxWa-HeDfjG3_1pem_aS1g&s",
       "ingredients": [
-        {
-          "item": "Basmati rice",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Paneer (cubed)",
-          "quantity": 200,
-          "unit": "g"
-        },
-        {
-          "item": "Green chilies (slit lengthwise)",
-          "quantity": 8,
-          "unit": "whole"
-        },
-        {
-          "item": "Onions (sliced)",
-          "quantity": 2,
-          "unit": "medium"
-        },
-        {
-          "item": "Tomatoes (chopped)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Green peas",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Whole spices (bay leaf, cinnamon, cardamom, cloves)",
-          "quantity": 1,
-          "unit": "set"
-        },
-        {
-          "item": "Cumin seeds",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Turmeric powder",
-          "quantity": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Red chili powder",
-          "quantity": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Mint leaves",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Coriander leaves",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Ghee or oil",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Water",
-          "quantity": 4,
-          "unit": "cups"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Basmati rice", "quantity": 2, "unit": "cups" },
+        { "item": "Paneer (cubed)", "quantity": 200, "unit": "g" },
+        { "item": "Green chilies (slit lengthwise)", "quantity": 8, "unit": "whole" },
+        { "item": "Onions (sliced)", "quantity": 2, "unit": "medium" },
+        { "item": "Tomatoes (chopped)", "quantity": 1, "unit": "medium" },
+        { "item": "Ginger-garlic paste", "quantity": 1, "unit": "tbsp" },
+        { "item": "Green peas", "quantity": 0.5, "unit": "cup" },
+        { "item": "Whole spices (bay leaf, cinnamon, cardamom, cloves)", "quantity": 1, "unit": "set" },
+        { "item": "Cumin seeds", "quantity": 1, "unit": "tsp" },
+        { "item": "Turmeric powder", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Red chili powder", "quantity": 0.5, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 1, "unit": "tsp" },
+        { "item": "Mint leaves", "quantity": 0.25, "unit": "cup" },
+        { "item": "Coriander leaves", "quantity": 0.25, "unit": "cup" },
+        { "item": "Ghee or oil", "quantity": 3, "unit": "tbsp" },
+        { "item": "Water", "quantity": 4, "unit": "cups" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Wash and soak basmati rice for 30 minutes. Drain and set aside.",
@@ -1057,13 +548,8 @@
         "Garnish with remaining mint and coriander leaves.",
         "Serve hot with raita or pickle."
       ],
-      "tags": [
-        "South Indian",
-        "Vegetarian",
-        "Spicy",
-        "Rice",
-        "Paneer"
-      ],
+      "tags": ["South Indian", "Vegetarian", "Spicy", "Rice", "Paneer"],
+      "rating": 4.5,
       "createdAt": "2025-01-01T15:00:00Z",
       "updatedAt": "2025-12-31T20:29:54.931Z"
     },
@@ -1071,52 +557,26 @@
       "id": "12",
       "title": "Classic Margherita Pizza",
       "description": "Authentic Italian pizza with fresh mozzarella, tomatoes, and basil.",
-      "category": "vegetarian",
-      "cusine": "Italian",
+      "mealType": "dinner",
+      "cuisine": "italian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "beginner",
+      "healthTags": ["kids-friendly"],
+      "occasions": ["party"],
+      "cookingMethod": "oven-baked",
+      "appExclusive": ["new-this-week"],
       "cookTime": 25,
       "servings": 2,
       "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Pizza dough",
-          "quantity": 1,
-          "unit": "ball"
-        },
-        {
-          "item": "Tomato sauce",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Fresh mozzarella cheese (sliced)",
-          "quantity": 200,
-          "unit": "g"
-        },
-        {
-          "item": "Fresh basil leaves",
-          "quantity": 10,
-          "unit": "leaves"
-        },
-        {
-          "item": "Olive oil",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Garlic (minced)",
-          "quantity": 2,
-          "unit": "cloves"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Black pepper",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Pizza dough", "quantity": 1, "unit": "ball" },
+        { "item": "Tomato sauce", "quantity": 0.5, "unit": "cup" },
+        { "item": "Fresh mozzarella cheese (sliced)", "quantity": 200, "unit": "g" },
+        { "item": "Fresh basil leaves", "quantity": 10, "unit": "leaves" },
+        { "item": "Olive oil", "quantity": 2, "unit": "tbsp" },
+        { "item": "Garlic (minced)", "quantity": 2, "unit": "cloves" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Black pepper", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "Preheat oven to 475°F (245°C). If using a pizza stone, place it in the oven.",
@@ -1129,86 +589,39 @@
         "Remove from oven and immediately top with fresh basil leaves.",
         "Slice and serve hot."
       ],
-      "tags": [
-        "Italian",
-        "Vegetarian",
-        "Pizza",
-        "Quick",
-        "Classic"
-      ],
-      "createdAt": "2025-01-02T10:00:00Z",
-      "updatedAt": "2025-01-02T10:00:00Z"
+      "tags": ["Italian", "Vegetarian", "Pizza", "Quick", "Classic"],
+      "rating": 4.6,
+      "createdAt": "2026-01-28T10:00:00Z",
+      "updatedAt": "2026-01-28T10:00:00Z"
     },
     {
       "id": "13",
       "title": "Pad Thai",
       "description": "Popular Thai stir-fried noodles with tamarind sauce and peanuts.",
-      "category": "quick",
-      "cusine": "Thai",
+      "mealType": "dinner",
+      "cuisine": "asian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "intermediate",
+      "healthTags": [],
+      "occasions": [],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["editors-choice"],
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Rice noodles",
-          "quantity": 400,
-          "unit": "g"
-        },
-        {
-          "item": "Chicken or tofu (cubed)",
-          "quantity": 300,
-          "unit": "g"
-        },
-        {
-          "item": "Eggs",
-          "quantity": 2,
-          "unit": "whole"
-        },
-        {
-          "item": "Bean sprouts",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Green onions (chopped)",
-          "quantity": 4,
-          "unit": "stalks"
-        },
-        {
-          "item": "Peanuts (crushed)",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Tamarind paste",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Fish sauce",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Brown sugar",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Lime wedges",
-          "quantity": 4,
-          "unit": "whole"
-        },
-        {
-          "item": "Garlic (minced)",
-          "quantity": 3,
-          "unit": "cloves"
-        },
-        {
-          "item": "Vegetable oil",
-          "quantity": 3,
-          "unit": "tbsp"
-        }
+        { "item": "Rice noodles", "quantity": 400, "unit": "g" },
+        { "item": "Chicken or tofu (cubed)", "quantity": 300, "unit": "g" },
+        { "item": "Eggs", "quantity": 2, "unit": "whole" },
+        { "item": "Bean sprouts", "quantity": 1, "unit": "cup" },
+        { "item": "Green onions (chopped)", "quantity": 4, "unit": "stalks" },
+        { "item": "Peanuts (crushed)", "quantity": 0.5, "unit": "cup" },
+        { "item": "Tamarind paste", "quantity": 3, "unit": "tbsp" },
+        { "item": "Fish sauce", "quantity": 3, "unit": "tbsp" },
+        { "item": "Brown sugar", "quantity": 2, "unit": "tbsp" },
+        { "item": "Lime wedges", "quantity": 4, "unit": "whole" },
+        { "item": "Garlic (minced)", "quantity": 3, "unit": "cloves" },
+        { "item": "Vegetable oil", "quantity": 3, "unit": "tbsp" }
       ],
       "instructions": [
         "Soak rice noodles in warm water for 30 minutes. Drain.",
@@ -1223,13 +636,8 @@
         "Garnish with crushed peanuts, remaining green onions, and lime wedges.",
         "Serve immediately."
       ],
-      "tags": [
-        "Thai",
-        "Asian",
-        "Noodles",
-        "Street Food",
-        "Popular"
-      ],
+      "tags": ["Thai", "Asian", "Noodles", "Street Food", "Popular"],
+      "rating": 4.7,
       "createdAt": "2025-01-02T10:30:00Z",
       "updatedAt": "2025-01-02T10:30:00Z"
     },
@@ -1237,67 +645,29 @@
       "id": "15",
       "title": "Greek Salad",
       "description": "Fresh Mediterranean salad with feta cheese, olives, and crisp vegetables.",
-      "category": "vegetarian",
-      "cusine": "Greek",
+      "mealType": "lunch",
+      "cuisine": "continental",
+      "dietPreferences": ["vegetarian", "gluten-free", "keto"],
+      "difficulty": "beginner",
+      "healthTags": ["weight-loss", "heart-healthy"],
+      "occasions": ["lunchbox"],
+      "cookingMethod": "no-cook",
+      "appExclusive": ["trending"],
       "cookTime": 15,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Cucumbers (chopped)",
-          "quantity": 2,
-          "unit": "medium"
-        },
-        {
-          "item": "Tomatoes (chopped)",
-          "quantity": 4,
-          "unit": "large"
-        },
-        {
-          "item": "Red onion (thinly sliced)",
-          "quantity": 1,
-          "unit": "small"
-        },
-        {
-          "item": "Bell pepper (chopped)",
-          "quantity": 1,
-          "unit": "large"
-        },
-        {
-          "item": "Kalamata olives",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Feta cheese (cubed)",
-          "quantity": 200,
-          "unit": "g"
-        },
-        {
-          "item": "Extra virgin olive oil",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Lemon juice",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Dried oregano",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Black pepper",
-          "quantity": 1,
-          "unit": "to taste"
-        }
+        { "item": "Cucumbers (chopped)", "quantity": 2, "unit": "medium" },
+        { "item": "Tomatoes (chopped)", "quantity": 4, "unit": "large" },
+        { "item": "Red onion (thinly sliced)", "quantity": 1, "unit": "small" },
+        { "item": "Bell pepper (chopped)", "quantity": 1, "unit": "large" },
+        { "item": "Kalamata olives", "quantity": 1, "unit": "cup" },
+        { "item": "Feta cheese (cubed)", "quantity": 200, "unit": "g" },
+        { "item": "Extra virgin olive oil", "quantity": 0.25, "unit": "cup" },
+        { "item": "Lemon juice", "quantity": 2, "unit": "tbsp" },
+        { "item": "Dried oregano", "quantity": 1, "unit": "tsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Black pepper", "quantity": 1, "unit": "to taste" }
       ],
       "instructions": [
         "In a large bowl, combine chopped cucumbers, tomatoes, bell pepper, and red onion.",
@@ -1309,13 +679,8 @@
         "Toss gently before serving.",
         "Serve chilled or at room temperature."
       ],
-      "tags": [
-        "Greek",
-        "Mediterranean",
-        "Salad",
-        "Healthy",
-        "No Cook"
-      ],
+      "tags": ["Greek", "Mediterranean", "Salad", "Healthy", "No Cook"],
+      "rating": 4.5,
       "createdAt": "2025-01-02T11:30:00Z",
       "updatedAt": "2025-01-02T11:30:00Z"
     },
@@ -1323,52 +688,26 @@
       "id": "17",
       "title": "Spaghetti Carbonara",
       "description": "Creamy Italian pasta with bacon, eggs, and Parmesan cheese.",
-      "category": "quick",
-      "cusine": "Italian",
+      "mealType": "dinner",
+      "cuisine": "italian",
+      "dietPreferences": [],
+      "difficulty": "intermediate",
+      "healthTags": [],
+      "occasions": ["comfort-food"],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 25,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Spaghetti",
-          "quantity": 400,
-          "unit": "g"
-        },
-        {
-          "item": "Bacon or pancetta (diced)",
-          "quantity": 200,
-          "unit": "g"
-        },
-        {
-          "item": "Eggs",
-          "quantity": 3,
-          "unit": "whole"
-        },
-        {
-          "item": "Parmesan cheese (grated)",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Garlic (minced)",
-          "quantity": 3,
-          "unit": "cloves"
-        },
-        {
-          "item": "Black pepper (freshly ground)",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Fresh parsley (chopped)",
-          "quantity": 2,
-          "unit": "tbsp"
-        }
+        { "item": "Spaghetti", "quantity": 400, "unit": "g" },
+        { "item": "Bacon or pancetta (diced)", "quantity": 200, "unit": "g" },
+        { "item": "Eggs", "quantity": 3, "unit": "whole" },
+        { "item": "Parmesan cheese (grated)", "quantity": 1, "unit": "cup" },
+        { "item": "Garlic (minced)", "quantity": 3, "unit": "cloves" },
+        { "item": "Black pepper (freshly ground)", "quantity": 1, "unit": "tsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Fresh parsley (chopped)", "quantity": 2, "unit": "tbsp" }
       ],
       "instructions": [
         "Bring a large pot of salted water to boil. Cook spaghetti according to package directions.",
@@ -1382,13 +721,8 @@
         "Garnish with fresh parsley and extra Parmesan.",
         "Serve immediately."
       ],
-      "tags": [
-        "Italian",
-        "Pasta",
-        "Creamy",
-        "Quick",
-        "Classic"
-      ],
+      "tags": ["Italian", "Pasta", "Creamy", "Quick", "Classic"],
+      "rating": 4.6,
       "createdAt": "2025-01-02T12:30:00Z",
       "updatedAt": "2025-01-02T12:30:00Z"
     },
@@ -1396,77 +730,31 @@
       "id": "18",
       "title": "Kung Pao Chicken",
       "description": "Spicy Sichuan-style stir-fry with chicken, peanuts, and vegetables.",
-      "category": "spicy",
-      "cusine": "Chinese",
+      "mealType": "dinner",
+      "cuisine": "asian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "intermediate",
+      "healthTags": ["high-protein"],
+      "occasions": [],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 25,
       "servings": 4,
       "imageUrl": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600&h=400&fit=crop",
       "ingredients": [
-        {
-          "item": "Chicken breast (cubed)",
-          "quantity": 500,
-          "unit": "g"
-        },
-        {
-          "item": "Peanuts (roasted)",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Bell peppers (cubed)",
-          "quantity": 2,
-          "unit": "medium"
-        },
-        {
-          "item": "Dried red chilies",
-          "quantity": 8,
-          "unit": "whole"
-        },
-        {
-          "item": "Soy sauce",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Rice vinegar",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Sugar",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Cornstarch",
-          "quantity": 2,
-          "unit": "tsp"
-        },
-        {
-          "item": "Ginger (minced)",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Garlic (minced)",
-          "quantity": 4,
-          "unit": "cloves"
-        },
-        {
-          "item": "Green onions (chopped)",
-          "quantity": 3,
-          "unit": "stalks"
-        },
-        {
-          "item": "Sesame oil",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Vegetable oil",
-          "quantity": 3,
-          "unit": "tbsp"
-        }
+        { "item": "Chicken breast (cubed)", "quantity": 500, "unit": "g" },
+        { "item": "Peanuts (roasted)", "quantity": 0.5, "unit": "cup" },
+        { "item": "Bell peppers (cubed)", "quantity": 2, "unit": "medium" },
+        { "item": "Dried red chilies", "quantity": 8, "unit": "whole" },
+        { "item": "Soy sauce", "quantity": 3, "unit": "tbsp" },
+        { "item": "Rice vinegar", "quantity": 2, "unit": "tbsp" },
+        { "item": "Sugar", "quantity": 1, "unit": "tbsp" },
+        { "item": "Cornstarch", "quantity": 2, "unit": "tsp" },
+        { "item": "Ginger (minced)", "quantity": 1, "unit": "tbsp" },
+        { "item": "Garlic (minced)", "quantity": 4, "unit": "cloves" },
+        { "item": "Green onions (chopped)", "quantity": 3, "unit": "stalks" },
+        { "item": "Sesame oil", "quantity": 1, "unit": "tsp" },
+        { "item": "Vegetable oil", "quantity": 3, "unit": "tbsp" }
       ],
       "instructions": [
         "Mix soy sauce, rice vinegar, sugar, cornstarch, and 2 tbsp water in a bowl. Set aside.",
@@ -1480,13 +768,8 @@
         "Drizzle with sesame oil.",
         "Serve hot over steamed rice."
       ],
-      "tags": [
-        "Chinese",
-        "Sichuan",
-        "Spicy",
-        "Stir-Fry",
-        "Chicken"
-      ],
+      "tags": ["Chinese", "Sichuan", "Spicy", "Stir-Fry", "Chicken"],
+      "rating": 4.6,
       "createdAt": "2025-01-02T13:00:00Z",
       "updatedAt": "2025-01-02T13:00:00Z"
     },
@@ -1494,62 +777,28 @@
       "id": "20",
       "title": "Falafel",
       "description": "Crispy Middle Eastern chickpea fritters served with tahini sauce.",
-      "category": "vegetarian",
-      "cusine": "Middle Eastern",
+      "mealType": "snacks",
+      "cuisine": "continental",
+      "dietPreferences": ["vegetarian", "vegan"],
+      "difficulty": "intermediate",
+      "healthTags": ["high-protein"],
+      "occasions": ["potluck"],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 40,
       "servings": 4,
       "imageUrl": "https://www.themediterraneandish.com/wp-content/uploads/2020/02/falafel-recipe-1.jpg",
       "ingredients": [
-        {
-          "item": "Dried chickpeas (soaked)",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Onion (chopped)",
-          "quantity": 1,
-          "unit": "medium"
-        },
-        {
-          "item": "Garlic cloves",
-          "quantity": 4,
-          "unit": "whole"
-        },
-        {
-          "item": "Fresh parsley",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Fresh cilantro",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Cumin powder",
-          "quantity": 2,
-          "unit": "tsp"
-        },
-        {
-          "item": "Coriander powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Baking powder",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Oil for frying",
-          "quantity": 3,
-          "unit": "cups"
-        }
+        { "item": "Dried chickpeas (soaked)", "quantity": 2, "unit": "cups" },
+        { "item": "Onion (chopped)", "quantity": 1, "unit": "medium" },
+        { "item": "Garlic cloves", "quantity": 4, "unit": "whole" },
+        { "item": "Fresh parsley", "quantity": 1, "unit": "cup" },
+        { "item": "Fresh cilantro", "quantity": 0.5, "unit": "cup" },
+        { "item": "Cumin powder", "quantity": 2, "unit": "tsp" },
+        { "item": "Coriander powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Baking powder", "quantity": 1, "unit": "tsp" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Oil for frying", "quantity": 3, "unit": "cups" }
       ],
       "instructions": [
         "Drain soaked chickpeas and add to food processor with onion, garlic, parsley, and cilantro.",
@@ -1561,13 +810,8 @@
         "Deep fry falafel until golden brown, about 3-4 minutes.",
         "Drain on paper towels and serve with tahini sauce."
       ],
-      "tags": [
-        "Middle Eastern",
-        "Vegetarian",
-        "Fried",
-        "Chickpeas",
-        "Street Food"
-      ],
+      "tags": ["Middle Eastern", "Vegetarian", "Fried", "Chickpeas", "Street Food"],
+      "rating": 4.5,
       "createdAt": "2025-01-02T14:00:00Z",
       "updatedAt": "2025-01-02T14:00:00Z"
     },
@@ -1575,62 +819,28 @@
       "id": "28",
       "title": "Chicken Tikka Masala",
       "description": "Grilled chicken in creamy tomato-based curry sauce.",
-      "category": "chicken",
-      "cusine": "Indian",
+      "mealType": "dinner",
+      "cuisine": "indian",
+      "dietPreferences": ["chicken"],
+      "difficulty": "intermediate",
+      "healthTags": ["high-protein"],
+      "occasions": ["party", "comfort-food"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["chefs-picks"],
       "cookTime": 50,
       "servings": 6,
       "imageUrl": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg",
       "ingredients": [
-        {
-          "item": "Chicken breast (cubed)",
-          "quantity": 800,
-          "unit": "g"
-        },
-        {
-          "item": "Yogurt",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Lemon juice",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Ginger-garlic paste",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Turmeric",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Heavy cream",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Tomato sauce",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Butter",
-          "quantity": 3,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Kasuri methi",
-          "quantity": 1,
-          "unit": "tbsp"
-        }
+        { "item": "Chicken breast (cubed)", "quantity": 800, "unit": "g" },
+        { "item": "Yogurt", "quantity": 1, "unit": "cup" },
+        { "item": "Lemon juice", "quantity": 3, "unit": "tbsp" },
+        { "item": "Ginger-garlic paste", "quantity": 2, "unit": "tbsp" },
+        { "item": "Garam masala", "quantity": 2, "unit": "tbsp" },
+        { "item": "Turmeric", "quantity": 1, "unit": "tsp" },
+        { "item": "Heavy cream", "quantity": 1, "unit": "cup" },
+        { "item": "Tomato sauce", "quantity": 2, "unit": "cups" },
+        { "item": "Butter", "quantity": 3, "unit": "tbsp" },
+        { "item": "Kasuri methi", "quantity": 1, "unit": "tbsp" }
       ],
       "instructions": [
         "Marinate chicken with yogurt, lemon juice, ginger-garlic paste, and half the garam masala for 2 hours.",
@@ -1642,13 +852,8 @@
         "Add grilled chicken and simmer 10 minutes.",
         "Serve with naan or rice."
       ],
-      "tags": [
-        "Indian",
-        "Chicken",
-        "Curry",
-        "Creamy",
-        "Popular"
-      ],
+      "tags": ["Indian", "Chicken", "Curry", "Creamy", "Popular"],
+      "rating": 4.8,
       "createdAt": "2025-01-02T18:00:00Z",
       "updatedAt": "2025-01-02T18:00:00Z"
     },
@@ -1656,62 +861,28 @@
       "id": "31",
       "title": "Ramen",
       "description": "Japanese noodle soup with rich broth and toppings.",
-      "category": "quick",
-      "cusine": "Japanese",
+      "mealType": "dinner",
+      "cuisine": "asian",
+      "dietPreferences": [],
+      "difficulty": "intermediate",
+      "healthTags": [],
+      "occasions": ["comfort-food"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["trending"],
       "cookTime": 30,
       "servings": 4,
       "imageUrl": "https://www.justonecookbook.com/wp-content/uploads/2023/04/Spicy-Shoyu-Ramen-8055-I.jpg",
       "ingredients": [
-        {
-          "item": "Ramen noodles",
-          "quantity": 4,
-          "unit": "portions"
-        },
-        {
-          "item": "Chicken or pork broth",
-          "quantity": 6,
-          "unit": "cups"
-        },
-        {
-          "item": "Soy sauce",
-          "quantity": 0.25,
-          "unit": "cup"
-        },
-        {
-          "item": "Miso paste",
-          "quantity": 2,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Soft-boiled eggs",
-          "quantity": 4,
-          "unit": "whole"
-        },
-        {
-          "item": "Pork belly or chicken",
-          "quantity": 300,
-          "unit": "g"
-        },
-        {
-          "item": "Green onions",
-          "quantity": 4,
-          "unit": "stalks"
-        },
-        {
-          "item": "Nori sheets",
-          "quantity": 4,
-          "unit": "whole"
-        },
-        {
-          "item": "Bamboo shoots",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Sesame oil",
-          "quantity": 2,
-          "unit": "tbsp"
-        }
+        { "item": "Ramen noodles", "quantity": 4, "unit": "portions" },
+        { "item": "Chicken or pork broth", "quantity": 6, "unit": "cups" },
+        { "item": "Soy sauce", "quantity": 0.25, "unit": "cup" },
+        { "item": "Miso paste", "quantity": 2, "unit": "tbsp" },
+        { "item": "Soft-boiled eggs", "quantity": 4, "unit": "whole" },
+        { "item": "Pork belly or chicken", "quantity": 300, "unit": "g" },
+        { "item": "Green onions", "quantity": 4, "unit": "stalks" },
+        { "item": "Nori sheets", "quantity": 4, "unit": "whole" },
+        { "item": "Bamboo shoots", "quantity": 1, "unit": "cup" },
+        { "item": "Sesame oil", "quantity": 2, "unit": "tbsp" }
       ],
       "instructions": [
         "Bring broth to boil and add soy sauce and miso paste.",
@@ -1724,13 +895,8 @@
         "Drizzle with sesame oil.",
         "Serve immediately."
       ],
-      "tags": [
-        "Japanese",
-        "Noodles",
-        "Soup",
-        "Comfort Food",
-        "Quick"
-      ],
+      "tags": ["Japanese", "Noodles", "Soup", "Comfort Food", "Quick"],
+      "rating": 4.7,
       "createdAt": "2025-01-02T19:30:00Z",
       "updatedAt": "2025-01-02T19:30:00Z"
     },
@@ -1738,52 +904,26 @@
       "id": "36",
       "title": "Fettuccine Alfredo",
       "description": "Creamy Italian pasta with Parmesan and butter.",
-      "category": "vegetarian",
-      "cusine": "Italian",
+      "mealType": "dinner",
+      "cuisine": "italian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "beginner",
+      "healthTags": ["kids-friendly"],
+      "occasions": ["comfort-food"],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 20,
       "servings": 4,
       "imageUrl": "https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg",
       "ingredients": [
-        {
-          "item": "Fettuccine pasta",
-          "quantity": 450,
-          "unit": "g"
-        },
-        {
-          "item": "Butter",
-          "quantity": 0.5,
-          "unit": "cup"
-        },
-        {
-          "item": "Heavy cream",
-          "quantity": 1.5,
-          "unit": "cups"
-        },
-        {
-          "item": "Parmesan cheese (grated)",
-          "quantity": 2,
-          "unit": "cups"
-        },
-        {
-          "item": "Garlic (minced)",
-          "quantity": 3,
-          "unit": "cloves"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Black pepper",
-          "quantity": 1,
-          "unit": "to taste"
-        },
-        {
-          "item": "Fresh parsley",
-          "quantity": 0.25,
-          "unit": "cup"
-        }
+        { "item": "Fettuccine pasta", "quantity": 450, "unit": "g" },
+        { "item": "Butter", "quantity": 0.5, "unit": "cup" },
+        { "item": "Heavy cream", "quantity": 1.5, "unit": "cups" },
+        { "item": "Parmesan cheese (grated)", "quantity": 2, "unit": "cups" },
+        { "item": "Garlic (minced)", "quantity": 3, "unit": "cloves" },
+        { "item": "Salt", "quantity": 1, "unit": "to taste" },
+        { "item": "Black pepper", "quantity": 1, "unit": "to taste" },
+        { "item": "Fresh parsley", "quantity": 0.25, "unit": "cup" }
       ],
       "instructions": [
         "Cook fettuccine according to package directions.",
@@ -1796,13 +936,8 @@
         "Garnish with fresh parsley.",
         "Serve immediately."
       ],
-      "tags": [
-        "Italian",
-        "Pasta",
-        "Creamy",
-        "Quick",
-        "Classic"
-      ],
+      "tags": ["Italian", "Pasta", "Creamy", "Quick", "Classic"],
+      "rating": 4.5,
       "createdAt": "2025-01-02T22:00:00Z",
       "updatedAt": "2025-01-02T22:00:00Z"
     },
@@ -1810,57 +945,27 @@
       "id": "45",
       "title": "Samosas",
       "description": "Indian crispy fried pastries filled with spiced potatoes.",
-      "category": "vegetarian",
-      "cusine": "Indian",
+      "mealType": "snacks",
+      "cuisine": "indian",
+      "dietPreferences": ["vegetarian", "vegan"],
+      "difficulty": "advanced",
+      "healthTags": [],
+      "occasions": ["festival", "party"],
+      "cookingMethod": "stovetop",
+      "appExclusive": ["most-loved"],
       "cookTime": 60,
       "servings": 6,
       "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-recipe-1.jpg",
       "ingredients": [
-        {
-          "item": "All-purpose flour",
-          "quantity": 3,
-          "unit": "cups"
-        },
-        {
-          "item": "Potatoes (boiled, mashed)",
-          "quantity": 4,
-          "unit": "large"
-        },
-        {
-          "item": "Green peas",
-          "quantity": 1,
-          "unit": "cup"
-        },
-        {
-          "item": "Cumin seeds",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Coriander powder",
-          "quantity": 2,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Green chilies",
-          "quantity": 2,
-          "unit": "whole"
-        },
-        {
-          "item": "Ginger (minced)",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Oil for frying",
-          "quantity": 4,
-          "unit": "cups"
-        }
+        { "item": "All-purpose flour", "quantity": 3, "unit": "cups" },
+        { "item": "Potatoes (boiled, mashed)", "quantity": 4, "unit": "large" },
+        { "item": "Green peas", "quantity": 1, "unit": "cup" },
+        { "item": "Cumin seeds", "quantity": 1, "unit": "tsp" },
+        { "item": "Coriander powder", "quantity": 2, "unit": "tsp" },
+        { "item": "Garam masala", "quantity": 1, "unit": "tsp" },
+        { "item": "Green chilies", "quantity": 2, "unit": "whole" },
+        { "item": "Ginger (minced)", "quantity": 1, "unit": "tbsp" },
+        { "item": "Oil for frying", "quantity": 4, "unit": "cups" }
       ],
       "instructions": [
         "Make dough: mix flour with water and oil. Knead and rest 30 minutes.",
@@ -1872,13 +977,8 @@
         "Deep fry samosas until golden brown.",
         "Serve with mint chutney."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Fried",
-        "Snack",
-        "Street Food"
-      ],
+      "tags": ["Indian", "Vegetarian", "Fried", "Snack", "Street Food"],
+      "rating": 4.8,
       "createdAt": "2025-01-03T03:00:00Z",
       "updatedAt": "2025-01-03T03:00:00Z"
     },
@@ -1886,57 +986,27 @@
       "id": "46",
       "title": "Andhra Tomato Pickle",
       "description": "Spicy and tangy tomato pickle from Andhra Pradesh, perfect with rice",
-      "category": "vegetarian",
-      "cusine": "Indian",
+      "mealType": "snacks",
+      "cuisine": "south-indian",
+      "dietPreferences": ["vegetarian", "vegan"],
+      "difficulty": "intermediate",
+      "healthTags": [],
+      "occasions": [],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
       "cookTime": 60,
       "servings": 6,
       "imageUrl": "https://media.sailusfood.com/wp-content/uploads/2015/08/tomato-pickle-recipe.jpg",
       "ingredients": [
-        {
-          "item": "Tomatos",
-          "quantity": 500,
-          "unit": "grams"
-        },
-        {
-          "item": "Oil",
-          "quantity": 1,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Tamarind",
-          "quantity": 40,
-          "unit": "grams"
-        },
-        {
-          "item": "Salt",
-          "quantity": 1.5,
-          "unit": "tbsp"
-        },
-        {
-          "item": "Chilli powder",
-          "quantity": 0.33,
-          "unit": "cup"
-        },
-        {
-          "item": "Turmeric",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Garlic",
-          "quantity": 40,
-          "unit": "grams"
-        },
-        {
-          "item": "Dry Roasted Fenugreek Seeds",
-          "quantity": 1,
-          "unit": "tsp"
-        },
-        {
-          "item": "Dry Roasted Mustard Seeds",
-          "quantity": 2,
-          "unit": "tsp"
-        }
+        { "item": "Tomatos", "quantity": 500, "unit": "grams" },
+        { "item": "Oil", "quantity": 1, "unit": "tbsp" },
+        { "item": "Tamarind", "quantity": 40, "unit": "grams" },
+        { "item": "Salt", "quantity": 1.5, "unit": "tbsp" },
+        { "item": "Chilli powder", "quantity": 0.33, "unit": "cup" },
+        { "item": "Turmeric", "quantity": 1, "unit": "tsp" },
+        { "item": "Garlic", "quantity": 40, "unit": "grams" },
+        { "item": "Dry Roasted Fenugreek Seeds", "quantity": 1, "unit": "tsp" },
+        { "item": "Dry Roasted Mustard Seeds", "quantity": 2, "unit": "tsp" }
       ],
       "instructions": [
         "Make dough: mix flour with water and oil. Knead and rest 30 minutes.",
@@ -1948,13 +1018,74 @@
         "Deep fry samosas until golden brown.",
         "Serve with mint chutney."
       ],
-      "tags": [
-        "Indian",
-        "Vegetarian",
-        "Pickles"
-      ],
+      "tags": ["Indian", "Vegetarian", "Pickles"],
+      "rating": 4.4,
       "createdAt": "2025-01-03T03:00:00Z",
       "updatedAt": "2026-01-27T18:44:12.783Z"
+    },
+    {
+      "id": "47",
+      "title": "🍮 Semolina (Rava) Payasam",
+      "description": "A rich, creamy South Indian dessert made with roasted semolina, milk, and aromatic cardamom—perfect for festivals!",
+      "mealType": "desserts",
+      "cuisine": "south-indian",
+      "dietPreferences": ["vegetarian"],
+      "difficulty": "beginner",
+      "healthTags": [],
+      "occasions": ["festival", "party"],
+      "cookingMethod": "stovetop",
+      "appExclusive": [],
+      "cookTime": 20,
+      "servings": 4,
+      "imageUrl": "https://www.sharmispassions.com/wp-content/uploads/2023/10/semiya-payasam1.jpg",
+      "ingredients": [
+        { "subheading": "Main Ingredients", "quantity": null, "unit": null },
+        { "item": "Semolina / Rava (fine)", "quantity": 2, "unit": "tbsp" },
+        { "item": "Ghee", "quantity": 2, "unit": "tbsp" },
+        { "item": "Milk", "quantity": 2, "unit": "cups" },
+        { "item": "Water", "quantity": 0.5, "unit": "cup" },
+        { "item": "Sugar", "quantity": 0.5, "unit": "cup (adjust to taste)" },
+        { "subheading": "🥜 Dry Fruits & Flavoring", "quantity": null, "unit": null },
+        { "item": "Cashews (halved)", "quantity": 12, "unit": "pieces" },
+        { "item": "Raisins", "quantity": 1, "unit": "tbsp" },
+        { "item": "Cardamom powder", "quantity": 0.25, "unit": "tsp" },
+        { "item": "Saffron strands (optional)", "quantity": 10, "unit": "strands" },
+        { "item": "Edible camphor (optional, traditional)", "quantity": 1, "unit": "tiny pinch" }
+      ],
+      "instructions": [
+        { "subheading": "🔹 Step 1: Roast the semolina" },
+        "Heat 1 tbsp ghee in a heavy-bottom pan.",
+        "Add rava and roast on low flame.",
+        "Stir continuously for 2–3 minutes until aromatic.",
+        "Do NOT brown the rava.",
+        "Remove and keep aside.",
+        "👉 This step prevents lumps and raw taste.",
+        { "subheading": "🔹 Step 2: Prepare the liquid base" },
+        "In the same pan, add water + milk.",
+        "Bring to a gentle boil on medium flame.",
+        "Lower flame.",
+        { "subheading": "🔹 Step 3: Add rava without lumps" },
+        "Slowly sprinkle roasted rava into the milk while stirring continuously.",
+        "Cook for 3–4 minutes until rava softens and thickens.",
+        "👉 Stir constantly — rava thickens quickly.",
+        { "subheading": "🔹 Step 4: Sweeten the payasam" },
+        "Add sugar and mix well.",
+        "Cook for 2 minutes until sugar dissolves.",
+        "Payasam will slightly thin after adding sugar — this is normal.",
+        { "subheading": "🔹 Step 5: Fry dry fruits" },
+        "Heat remaining 1 tbsp ghee in a small pan.",
+        "Fry cashews till golden.",
+        "Add raisins and switch off once they puff.",
+        "Add to payasam.",
+        { "subheading": "🔹 Step 6: Flavoring" },
+        "Add cardamom powder and saffron.",
+        "Add edible camphor ONLY if using (tiny pinch).",
+        "Mix gently and switch off flame."
+      ],
+      "tags": ["South Indian", "Dessert", "Vegetarian", "Festival", "Payasam", "Traditional"],
+      "rating": 4.7,
+      "createdAt": "2026-01-30T10:00:00Z",
+      "updatedAt": "2026-01-30T10:00:00Z"
     }
   ]
 }

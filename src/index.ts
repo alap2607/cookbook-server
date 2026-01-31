@@ -4,6 +4,7 @@ import { corsMiddleware } from './middleware/cors';
 import { errorHandler } from './middleware/errorHandler';
 import recipeRoutes from './routes/recipes';
 import authRoutes from './routes/auth';
+import userRoutes from './routes/users';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -22,6 +23,7 @@ app.use((req, res, next) => {
 // Routes
 app.use('/api/recipes', recipeRoutes);
 app.use('/api/auth', authRoutes);
+app.use('/api/users', userRoutes);
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {

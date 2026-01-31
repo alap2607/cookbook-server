@@ -1,0 +1,79 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "avatar": "/images/IMG_1226.png",
+            "name": "Navya Sri Alaparthi",
+            "username": "navya.sri.alaparthi@example.com",
+            "password": "password123",
+            "bio": "Passionate home cook and food lover.",
+            "location": "San Francisco, CA",
+            "joinedDate": "2022-01-15",
+            "stats": {
+                "submissions": 42,
+                "followers": 150,
+                "following": 75
+            }
+        },
+        {
+            "id": "2",
+            "avatar": "/images/IMG_1227.png",
+            "name": "John Doe",
+            "username": "john.doe@example.com",
+            "password": "password123",
+            "bio": "Food enthusiast and amateur chef.",
+            "location": "New York, NY",
+            "joinedDate": "2021-05-20",
+            "stats": {
+                "submissions": 28,
+                "followers": 85,
+                "following": 40
+            }
+        },
+        {
+            "id": "3",
+            "avatar": "/images/IMG_1228.png",
+            "name": "Jane Smith",
+            "username": "jane.smith@example.com",
+            "password": "password123",
+            "bio": "Home cook and food blogger.",
+            "location": "Los Angeles, CA",
+            "joinedDate": "2020-11-10",
+            "stats": {
+                "submissions": 35,
+                "followers": 200,
+                "following": 60
+            }
+        },
+        {
+            "id": "4",
+            "avatar": "/images/IMG_1229.png",
+            "name": "Emily Johnson",
+            "username": "emily.johnson@example.com",
+            "password": "password123",
+            "bio": "Professional chef and cookbook author.",
+            "location": "Chicago, IL",
+            "joinedDate": "2021-08-05",
+            "stats": {
+                "submissions": 52,
+                "followers": 300,
+                "following": 90
+            }
+        },
+        {
+            "id": "5",
+            "avatar": "/images/IMG_1230.png",
+            "name": "Michael Brown",
+            "username": "michael.brown@example.com",
+            "password": "password123",
+            "bio": "Food blogger and recipe creator.",
+            "location": "Miami, FL",
+            "joinedDate": "2022-03-12",
+            "stats": {
+                "submissions": 38,
+                "followers": 180,
+                "following": 55
+            }
+        }
+    ]
+}
